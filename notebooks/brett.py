@@ -3,43 +3,13 @@ import matplotlib.pyplot as plt
 
 decklists = pd.read_json("https://us-central1-tumbledmtg-website.cloudfunctions.net/api/decklists")
 
-"""
-def get_mana_value(decklists):
-    values = []
-    bodies = decklists['cards']
-    for body in bodies:
-        count = 0
-        mv = 0
-        for line in body.split("\n"):
-            if len(line) < 5:
-                continue
-            card = cards[cards['name'] == line.split(";")[1]]
-            if card['cmc'].size > 0 and "Land" not in str(card['type']):
-                mv += (int(card['cmc'].iloc[0]) * int(line.split(';')[0]))
-                count += int(line.split(';')[0])
-        values.append(mv/count)
-    return pd.Series(values)
-    """
-
-"""
-cards = (   
-    pd.DataFrame(data.data,columns=data.feature_names)
-    .rename(columns={"color_intensity": "ci"})
-    .assign(color_filter=lambda x: np.where((x.hue > 1) & (x.ci > 7), 1, 0))
-    .loc[lambda x: x['alcohol']>14]
-    .sort_values("alcohol", ascending=False)
-    .reset_index(drop=True)
-    .loc[:, ["alcohol", "ci", "hue"]]
-)
-"""
-
 def get_star_count(cards):
     values = []
-    something = decklists.loc[lambda decklist: decklist['stars'] > 0]
+    decks = decklists.loc[lambda decklist: decklist['stars'] > 0]
     names = cards["name"]
     for name in names:
         score = 0
-        for index,decklist in something.iterrows():
+        for index,decklist in decks.iterrows():
             for line in decklist['body'].split("\n"):
                 words = line.split(' ')
                 if words[0].isnumeric():
@@ -71,13 +41,12 @@ def get_board_ratio(cards):
             board_ratio = float("NaN")
         else:
             board_ratio = maindeckcount / (maindeckcount + sideboardcount)
-            #board_ratio = "{:.2%}".format(board_ratio)
         values.append(board_ratio)
     return pd.Series(values)
                 
-def clean_cards(cards):
+def clean_cards():
     return (
-        cards
+        pd.read_json("https://us-central1-tumbledmtg-website.cloudfunctions.net/api/cards")
             .assign(star_score=get_star_count)
             .assign(board_ratio=get_board_ratio)
             .loc[lambda card: ~card['type'].str.contains('Basic')]
