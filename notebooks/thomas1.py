@@ -1,5 +1,4 @@
 import pandas as pd
-import matplotlib.pyplot as plt
 
 cards = pd.read_json("https://us-central1-tumbledmtg-website.cloudfunctions.net/api/cards")
 
@@ -60,21 +59,22 @@ def get_color(x, num):
     return pd.Series(colors)
 
 
-def clean_decklists(decklists):
+def clean_decklists():
     return (
-        decklists
+        pd.read_json("https://us-central1-tumbledmtg-website.cloudfunctions.net/api/decklists")
             .assign(cards=get_cards)
             .assign(lands=lambda x: get_type(x,"Land"))
             .assign(sorcery=lambda x: get_type(x,"Sorcery"))
+            .assign(enchant=lambda x: get_type(x,"Enchantment"))
             .assign(creature=lambda x: get_type(x,"Creature"))
             .assign(mv=get_mana_value)
             .assign(white=lambda x: get_color(x,0))
             .assign(blue=lambda x: get_color(x,1))
-            .assign(red=lambda x: get_color(x,2))
-            .assign(black=lambda x: get_color(x,3))
+            .assign(black=lambda x: get_color(x,2))
+            .assign(red=lambda x: get_color(x,3))
             .assign(green=lambda x: get_color(x,4))
             .loc[lambda x: x['duplex'] != True]
             .drop(columns=['duplex','decklistId','author','uploadId','title','createdAt','description','body','colors'], axis=1)
             .sort_values('stars', ascending=False)
-            )
+        )
 
