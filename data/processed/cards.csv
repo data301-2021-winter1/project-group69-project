@@ -1,0 +1,1886 @@
+,cmc,color,name,type,star_score,board_ratio
+1343,1,URH,TBLD Knack Charm,Flash Sorcery - Charm ,0,1.0
+1602,4,U,TBLD Murk Strider,Creature - Eldrazi ,0,
+1601,1,U,TBLD Mist Intruder,Creature - Eldrazi ,0,
+1600,2,MUB,TBLD Fathom Feeder,Creature - Eldrazi ,0,
+1599,3,MBR,TBLD Flayer Drone,Creature - Eldrazi ,0,
+1598,2,MBR,TBLD Forerunner of Slaughter,Creature - Eldrazi ,0,
+1597,5,G,TBLD Brood Monitor,Creature - Eldrazi ,0,
+1596,7,B,TBLD Dread Defiler,Creature - Eldrazi ,0,
+1595,4,B,TBLD Sifter of Skulls,Creature - Eldrazi ,0,
+1594,4,B,TBLD Smothering Abomination,Creature - Eldrazi ,0,
+1593,7,G,TBLD Birthing Hulk,Creature - Eldrazi ,0,
+1603,2,U,TBLD Benthic Infiltrator,Creature - Eldrazi ,0,
+1592,5,R,TBLD Barrage Tyrant,Creature - Eldrazi ,0,
+1590,2,G,TBLD Void Attendant,Creature - Eldrazi ,0,
+1588,2,W,TBLD Zen,Flash Sorcery,0,0.0
+1586,2,G,TBLD Blessed Respite,Flash Sorcery,0,1.0
+1585,7,G,TBLD Hunting Pack,Flash Sorcery,0,
+1584,5,G,TBLD Scatter the Seeds,Flash Sorcery,0,1.0
+1583,9,U,TBLD Mnemonic Deluge,Sorcery,0,
+1582,2,R,TBLD Searing Spear,Flash Sorcery,0,1.0
+1581,1,G,TBLD Serene Remembrance,Sorcery,0,
+1580,5,G,TBLD Hammer of MatSelesnya,Sorcery,0,1.0
+1578,3,G,TBLD Balga Sen Maneater,Creature - Hydra ,0,0.6666666666666666
+1591,1,G,TBLD Blisterpod,Creature - Eldrazi ,0,
+1604,6,U,TBLD Drowner of Hope,Creature - Eldrazi ,0,
+1605,3,U,TBLD Eldrazi Skyspawner,Creature - Eldrazi ,0,
+1606,3,R,TBLD Vile Aggregate,Creature - Eldrazi ,0,
+1630,1,G,TBLD Charging Badger,Creature - Beast ,0,1.0
+1629,1,B,TBLD Pulse Tracker,Creature - Vampire Rogue ,0,1.0
+1628,3,B,TBLD Vito Thorn of the Dusk Rose,Legendary Creature - Vampire Cleric ,0,1.0
+1627,2,G,TBLD Kuro the Unsought,Legendary Creature - Human Monk ,0,
+1626,1,B,TBLD Blood Cult Ritualist,Creature - Vampire Cleric ,0,1.0
+1625,2,MWU,TBLD Lavinia Azorius Paragon,Legendary Creature - Human Knight ,0,0.0
+1624,4,MWU,TBLD Isperia Judge Supreme,Legendary Creature - Sphinx ,0,0.0
+1623,3,W,TBLD Ajani Bane of Tyrants,Legendary Creature - Cat Warrior ,0,
+1621,4,W,TBLD Fated Sovereign,Creature - Human Knight Noble ,0,1.0
+1620,2,MWB,TBLD Cruel Celebrant,Creature - Vampire Noble ,0,1.0
+1619,6,W,TBLD Conclave Equenaut,Flash Creature - Human Soldier ,0,
+1618,3,G,TBLD Selesnya Eulogist,Creature - Centaur Shaman ,0,1.0
+1617,2,HGW,TBLD Worldsoul Evangel,Creature - Elf Shaman ,0,1.0
+1616,1,U,TBLD Salvage Drone,Creature - Eldrazi ,0,
+1615,3,B,TBLD Silent Skimmer,Creature - Eldrazi ,0,
+1614,2,B,TBLD Culling Drone,Creature - Eldrazi ,0,
+1613,2,B,TBLD Bearer of Silence,Creature - Eldrazi ,0,
+1612,1,B,TBLD Sludge Crawler,Creature - Eldrazi ,0,
+1611,1,B,TBLD Reaver Drone,Creature - Eldrazi ,0,
+1610,2,G,TBLD Vessel Drone,Creature - Eldrazi ,0,
+1609,1,G,TBLD Stalking Drone,Creature - Eldrazi ,0,
+1608,3,G,TBLD Scion Summoner,Creature - Eldrazi ,0,
+1607,3,B,TBLD Dread Shade,Creature - Spirit ,0,
+1577,2,C,TBLD Haughty Obstruction,Flash Sorcery,0,0.5
+1631,2,MGU,TBLD Herald of the Lost Clans,Creature - Shapeshifter Shaman ,0,
+1575,4,C,TBLD Core Zealot,Artifact Creature - Phyrexian Cleric ,0,1.0
+1573,6,R,TBLD Pardic Dragon,Creature - Dragon ,0,1.0
+1544,3,MRGW,TBLD Naya Ascendancy,Enchantment,0,
+1543,3,MRWB,TBLD Mardu Ascendancy,Enchantment,0,
+1542,3,MURW,TBLD Jeskai Ascendancy,Enchantment,0,
+1540,3,MWBG,TBLD Abzan Ascendancy,Enchantment,0,1.0
+1539,6,R,TBLD Mirror March,Enchantment,0,
+1538,4,W,TBLD Great Teachers Decree,Flash Sorcery,0,
+1537,2,B,TBLD Dutiful Return,Sorcery,0,
+1536,3,R,TBLD Howl of the Horde,Sorcery,0,
+1535,2,MBR,TBLD Pain Magnification,Enchantment,0,1.0
+1533,3,W,TBLD Banishing Light,Enchantment,0,
+1545,3,MBGU,TBLD Sultai Ascendancy,Enchantment,0,
+1532,4,G,TBLD Tranquility,Sorcery,0,0.0
+1530,6,W,TBLD Radiant Anthem,Flash Enchantment,0,
+1529,3,G,TBLD Whirlwind,Sorcery,0,
+1525,4,C,TBLD Hedron Archive,Artifact,0,
+1524,3,W,TBLD Enchanters Wand,Artifact,0,
+1523,2,R,TBLD Battlemages Wand,Artifact,0,
+1522,1,G,TBLD Sages Wand,Artifact,0,
+1521,1,B,TBLD Lichs Wand,Artifact,0,
+1520,2,U,TBLD Oracles Wand,Artifact,0,
+1519,1,C,TBLD Sinister Bauble,Artifact,0,1.0
+1518,1,C,TBLD Reflective Bauble,Artifact,0,
+1531,2,MGW,TBLD Conclaves Call,Sorcery,0,1.0
+1546,3,MGUR,TBLD Temur Ascendancy,Enchantment,0,
+1547,3,MWUB,TBLD Esper Ascendancy,Enchantment,0,
+1548,3,MBRG,TBLD Jund Ascendancy,Enchantment,0,
+1572,6,R,TBLD Tyranical Roaster,Creature - Dragon ,0,
+1571,6,C,TBLD Court Huntsman,Creature - Human Scout ,0,
+1570,3,B,TBLD Seeking Specter,Creature - Spirit ,0,1.0
+1569,4,G,TBLD Ironscale Hydra,Creature - Hydra ,0,1.0
+1568,6,C,TBLD Primeval Hydra,Creature - Hydra ,0,1.0
+1567,6,C,TBLD Seismic Spike,Sorcery,0,0.0
+1566,6,C,TBLD Failed Inspection,Flash Sorcery,0,
+1565,3,G,TBLD Hunters Bidding,Sorcery,0,1.0
+1564,2,MUB,TBLD Tyrants Scorn,Flash Sorcery,0,
+1563,3,G,TBLD Strength of the Pack,Sorcery,0,
+1562,5,G,TBLD Overwhelm,Sorcery,0,0.0
+1560,8,C,TBLD Corpse Enlistment,Sorcery,0,
+1559,1,W,TBLD Bring Down,Sorcery,0,
+1558,2,HRW,TBLD Double Cleave,Flash Sorcery,0,
+1557,1,W,TBLD Isolate,Flash Sorcery,0,
+1556,10,U,TBLD Telepathic Overload,Flash Sorcery,0,1.0
+1555,1,U,TBLD Dream Twist,Sorcery,0,1.0
+1554,2,W,TBLD Memorialize,Flash Sorcery,0,
+1553,3,MWU,TBLD Moderation,Enchantment,0,
+1552,3,MBR,TBLD Theater of Horrors,Enchantment,0,1.0
+1551,6,U,TBLD New Perspectives,Enchantment,0,
+1550,4,B,TBLD Pestilence,Enchantment,0,
+1549,3,MGWU,TBLD Bant Ascendancy,Enchantment,0,1.0
+1574,6,C,TBLD Moltensteel Hellkite,Artifact Creature - Phyrexian Dragon ,0,
+1632,2,MUB,TBLD Duskmantle Wraith,Creature - Spirit ,0,
+1633,3,MGRW,TBLD Woolly Thoctar,Creature - Beast ,0,
+1635,7,G,TBLD Naermuthian Titan,Creature - Beast ,0,
+1735,1,U,TBLD Inquisitive Sprite,Creature - Faerie Scout ,0,
+1731,3,B,TBLD Infinite Obliteration,Sorcery,0,0.375
+1730,3,B,TBLD Dispossess,Sorcery,0,0.0
+1729,3,B,TBLD Love Lost,Sorcery,0,0.0
+1728,2,B,TBLD Assassin Squad Ambush,Flash Sorcery,0,1.0
+1724,1,U,TBLD Flitting Sentry,Flash Creature - Faerie Soldier ,0,
+1723,2,U,TBLD Marsh Pixie,Flash Creature - Faerie Rogue ,0,
+1722,4,U,TBLD Concentrate,Sorcery,0,
+1720,4,R,TBLD Hidetsugus Second Rite,Flash Sorcery,0,
+1719,1,B,TBLD Foul-Tongue Shriek,Flash Sorcery,0,0.5714285714285714
+1736,1,U,TBLD Hexmuddle Changeling,Creature - Shapeshifter ,0,1.0
+1717,3,G,TBLD Chord of Calling,Flash Sorcery,0,
+1715,4,R,TBLD Sowing Salt,Sorcery,0,
+1713,2,U,TBLD Triton Fortune Hunter,Creature - Merfolk Knight ,0,
+1712,4,U,TBLD Rising Empress,Creature - Merfolk Noble ,0,
+1711,2,U,TBLD Lullmage Mentor,Creature - Merfolk Wizard ,0,1.0
+1710,2,W,TBLD Judge of Currents,Creature - Merfolk Wizard ,0,
+1709,3,G,TBLD Swift Warden,Creature - Merfolk Warrior ,0,1.0
+1708,3,G,TBLD Jungleborn Pioneer,Creature - Merfolk Scout ,0,1.0
+1707,3,W,TBLD Veteran of the Depths,Creature - Merfolk Soldier ,0,
+1706,2,B,TBLD Hollowsage,Creature - Merfolk Wizard ,0,
+1705,2,U,TBLD Eddy Shaman,Creature - Merfolk Shaman ,0,
+1716,1,U,TBLD Trickbind,Flash Sorcery,0,
+1737,3,U,TBLD Shoal Serpent,Creature - Leviathan ,0,1.0
+1738,1,R,TBLD Fire-Belly Changeling,Creature - Shapeshifter ,0,
+1739,1,G,TBLD Game-Trail Changeling,Creature - Shapeshifter ,0,1.0
+1770,3,G,TBLD Monstrify,Sorcery,0,1.0
+1769,4,U,TBLD Abstruse Epiphany,Flash Sorcery,0,
+1767,2,G,TBLD Pounce,Flash Sorcery,0,0.0
+1766,1,G,TBLD Unnatural Aggression,Flash Sorcery,0,
+1765,3,C,TBLD Devour the Weak,Sorcery,0,0.6666666666666666
+1764,3,C,TBLD Birthing Slime,Artifact Creature - Phyrexian Ooze ,0,1.0
+1762,6,MWU,TBLD Inscrutable Magistrate,Flash Creature - Sphinx ,0,
+1761,7,U,TBLD Neosteel Stealth Unit,Flash Artifact Creature - Construct ,0,1.0
+1760,3,C,TBLD Salvage Seeker,Artifact Creature - Phyrexian ,0,
+1759,5,C,TBLD Phyrexian Arcanist,Artifact Creature - Phyrexian Wizard ,0,
+1758,2,U,TBLD Think Twice,Flash Sorcery,0,0.9090909090909091
+1754,1,R,TBLD Positronic Ritual,Sorcery,0,1.0
+1753,1,R,TBLD Hired Hit,Flash Sorcery,0,1.0
+1752,1,R,TBLD Play with Fire,Flash Sorcery,0,
+1751,1,R,TBLD Crackling Burst,Flash Sorcery,0,0.95
+1749,3,G,TBLD Scurry Oak,Creature - Treefolk ,0,
+1748,2,G,TBLD Undergrowth Mystic,Creature - Elf Shaman ,0,
+1747,2,MGU,TBLD Morphic Lump,Creature - Shapeshifter ,0,1.0
+1745,2,G,TBLD Sylvok Tangleshaper,Creature - Human Shaman ,0,
+1744,2,G,TBLD Graceful Changeling,Creature - Shapeshifter ,0,1.0
+1742,2,G,TBLD Jade Fang Gorgon,Creature - Gorgon Warrior ,0,
+1741,1,G,TBLD Elves of Deep Shadow,Creature - Elf Shaman ,0,
+1740,1,G,TBLD Viridian Acolyte,Creature - Elf Shaman ,0,
+1704,2,U,TBLD Merfolk Looter,Creature - Merfolk Rogue ,0,
+1703,1,U,TBLD Atlantean Sentinel,Flash Creature - Merfolk Soldier ,0,
+1702,2,MUR,TBLD Priestess of the Deep,Creature - Merfolk Cleric ,0,
+1701,2,MUR,TBLD Razorfin Hunter,Creature - Merfolk Goblin ,0,
+1665,8,R,TBLD Bearer of the Heavens,Creature - Giant ,0,
+1664,3,G,TBLD Sporescatter Mycoid,Creature - Fungus ,0,1.0
+1663,2,G,TBLD Rot Shambler,Creature - Fungus ,0,
+1662,1,G,TBLD Woopip Sage,Creature - Fungus Shaman ,0,1.0
+1661,1,G,TBLD Gilded Goose,Creature - Bird ,0,1.0
+1660,1,HGW,TBLD Vernadi Caryatid,Creature - Nymph ,0,1.0
+1659,4,MRG,TBLD Zhur-Taa Gore Swine,Creature - Boar ,0,1.0
+1658,4,MGW,TBLD Chorus Summoner,Creature - Nymph ,0,1.0
+1657,4,U,TBLD Novijen Sages,Creature - Human Advisor Mutant ,0,1.0
+1655,1,G,TBLD Copperhorn Scout,Creature - Elf Scout ,0,
+1654,1,G,TBLD Gladecover Ranger,Creature - Elf Scout ,0,1.0
+1653,1,G,TBLD Crop Watcher,Artifact Creature - Scarecrow ,0,0.0
+1652,1,G,TBLD Hungry Whelp,Creature - Hydra ,0,1.0
+1651,2,G,TBLD Digital Witness,Creature - Mutant Advisor ,0,0.0
+1649,1,G,TBLD Highland Tracker,Creature - Human Scout ,0,1.0
+1647,3,U,TBLD Stinging Floater,Creature - Jellyfish ,0,
+1644,1,U,TBLD Elusive Trickster,Flash Creature - Fox ,0,1.0
+1643,2,R,TBLD Feisty Runt,Creature - Beast ,0,1.0
+1641,2,G,TBLD Ulvenwald Captive,Creature - Werewolf Horror ,0,
+1639,4,B,TBLD Bloodline Keeper,Creature - Vampire Noble ,0,1.0
+1638,1,B,TBLD Slinking Spectre,Creature - Spirit ,0,1.0
+1637,2,G,TBLD Hissing Ambusher,Flash Creature - Snake ,0,1.0
+1636,2,G,TBLD Gatstaf Grave Digger,Creature - Human Rogue Werewolf ,0,
+1666,6,W,TBLD Triumphant Asura,Creature - Giant ,0,1.0
+1517,7,C,TBLD Platinum Angel,Artifact Creature - Angel ,0,1.0
+1667,2,G,TBLD Lyxchan Seer,Creature - Snake Shaman ,0,1.0
+1669,3,W,TBLD Irregular Cohort,Creature - Shapeshifter ,0,
+1700,2,W,TBLD Standard Bearer,Creature - Human Flagbearer ,0,
+1699,2,W,TBLD Tithe Taker,Creature - Human Soldier ,0,0.0
+1698,1,B,TBLD Barbed Merfolk,Creature - Merfolk Rogue ,0,1.0
+1696,2,U,TBLD Veteran Roilsage,Creature - Merfolk Wizard ,0,1.0
+1695,2,W,TBLD Quilled Sliver,Creature - Sliver ,0,
+1694,3,W,TBLD Harpoon Sniper,Creature - Merfolk Archer ,0,
+1692,4,W,TBLD Summon the School,Sorcery,0,
+1691,4,R,TBLD Reality Scramble,Sorcery,0,1.0
+1689,1,B,TBLD Fungal Infection,Flash Sorcery,0,0.0
+1687,5,G,TBLD Maul,Sorcery,0,0.0
+1686,2,G,TBLD Territory Dispute,Flash Sorcery,0,0.0
+1685,3,W,TBLD Pious Invocation,Flash Sorcery,0,
+1683,2,G,TBLD Scarlet Gloomwidow,Creature - Spider ,0,
+1682,1,G,TBLD Deadly Recluse,Creature - Spider ,0,1.0
+1681,4,MBG,TBLD Rotwidow Pack,Creature - Spider ,0,
+1680,3,G,TBLD Pit Spinner,Flash Creature - Spider ,0,1.0
+1679,1,G,TBLD Honeypot Spider,Creature - Spider ,0,
+1678,4,G,TBLD Stingerfling Spider,Creature - Spider ,0,
+1677,5,G,TBLD Archweaver,Creature - Spider ,0,
+1676,4,G,TBLD Homesteader Tarantula,Creature - Spider ,0,
+1674,8,U,TBLD Sphinx of the Second Sun,Creature - Sphinx ,0,1.0
+1671,2,W,TBLD Loxodon Militant,Creature - Elephant Soldier ,0,0.0
+1670,5,W,TBLD Tribunal Hierarch,Creature - Elephant Cleric ,0,1.0
+1668,5,G,TBLD Mycoloth,Creature - Fungus ,0,
+1771,1,R,TBLD Magma Spray,Flash Sorcery,0,0.0
+1514,5,C,TBLD Self-Assembler,Artifact Creature - Construct ,0,0.6363636363636364
+1510,2,R,TBLD Shredded Sails,Flash Sorcery,0,0.0
+1339,2,MBG,TBLD Soil Charm,Flash Sorcery - Charm ,0,1.0
+1338,3,MRBG,TBLD Savagery Charm,Flash Sorcery - Charm ,0,
+1337,2,MWB,TBLD Reverence Charm,Flash Sorcery - Charm ,0,
+1336,2,MWU,TBLD Patience Charm,Flash Sorcery - Charm ,0,1.0
+1335,2,MUB,TBLD Paranoia Charm,Flash Sorcery - Charm ,0,1.0
+1334,3,MGRW,TBLD Majesty Charm,Flash Sorcery - Charm ,0,
+1333,3,MUWB,TBLD Judgement Charm,Flash Sorcery - Charm ,0,
+1332,3,MGUR,TBLD Instinct Charm,Flash Sorcery - Charm ,0,
+1330,3,MWGU,TBLD Harmony Charm,Flash Sorcery - Charm ,0,
+1329,3,MURW,TBLD Focus Charm,Flash Sorcery - Charm ,0,
+1340,2,MBR,TBLD Spite Charm,Flash Sorcery - Charm ,0,1.0
+1327,3,MWBG,TBLD Endurance Charm,Flash Sorcery - Charm ,0,
+1323,3,MWBR,TBLD Conquest Charm,Flash Sorcery - Charm ,0,
+1322,2,C,TBLD Industry Charm,Flash Sorcery - Charm ,0,0.8
+1321,9,G,TBLD Impervious Greatwurm,Creature - Wurm ,0,1.0
+1320,2,MGU,TBLD Reagent Ooze,Creature - Ooze ,0,
+1319,2,HBR,TBLD Cryptborn Horror,Creature - Horror ,0,
+1318,2,G,TBLD Gelatinous Hydra,Creature - Hydra Ooze ,0,0.9
+1317,3,G,TBLD Settle,Sorcery,0,
+1316,2,MBG,TBLD Drown in Filth,Sorcery,0,
+1313,9,MWR,TBLD Wind_Rain,Sorcery // Flash Sorcery,0,
+1312,4,R,TBLD Survey the Wreckage,Sorcery,0,1.0
+1326,3,MUBG,TBLD Dominion Charm,Flash Sorcery - Charm ,0,
+1341,2,MRG,TBLD Wilderness Charm,Flash Sorcery - Charm ,0,
+1342,2,MRW,TBLD Zeal Charm,Flash Sorcery - Charm ,0,
+2284,3,MBR,TBLD Night Call,Sorcery,0,
+1379,2,MBR,TBLD Infernal Tribute,Sorcery,0,1.0
+1378,1,B,TBLD Hang,Sorcery,0,0.25
+1376,2,B,TBLD Eviscerate,Sorcery,0,0.0
+1375,3,W,TBLD Regal Comfort,Flash Sorcery,0,
+1374,2,B,TBLD Grasp of Darkness,Flash Sorcery,0,0.0
+1372,2,B,TBLD Sudden Edict,Flash Sorcery,0,
+1370,2,HWB,TBLD Death of a Champion,Flash Sorcery,0,0.0
+1369,1,G,TBLD Massive Growth Spurt,Enchantment - Aura ,0,1.0
+1368,3,B,TBLD Underworld Connections,Enchantment - Aura ,0,0.0
+1365,4,B,TBLD Barter in Blood,Sorcery,0,
+1364,2,R,TBLD Simmering Ritual,Sorcery,0,
+1363,5,B,TBLD Presence of Evil,Sorcery,0,
+1358,4,U,TBLD Phantasmal Dreadmaw,Creature - Dinosaur Illusion ,0,
+1357,2,G,TBLD Sanctum Weaver,Enchantment Creature - Dryad ,0,1.0
+1356,4,G,TBLD Grazing Musksnuffler,Enchantment Creature - Fungus Elemental ,0,1.0
+1355,4,B,TBLD Bitterwhelk,Enchantment Creature - Elemental ,0,1.0
+1354,6,C,TBLD Diabolic Tutor,Flash Sorcery,0,1.0
+1353,2,B,TBLD Illicit Knowledge,Sorcery,0,1.0
+1352,2,B,TBLD Shrivel,Sorcery,0,0.0
+1351,1,B,TBLD Tragic Slip,Flash Sorcery,0,0.2
+1350,8,C,TBLD Sparkstorm,Sorcery,0,
+1348,2,R,TBLD Solstice Charm,Flash Sorcery - Charm ,0,1.0
+1344,3,C,TBLD Warp Charm,Flash Sorcery - Charm ,0,1.0
+1311,3,R,TBLD Stone Rain,Flash Sorcery,0,0.75
+1380,1,B,TBLD Innocent Blood,Sorcery,0,
+1310,2,MBR,TBLD Rakdoss Return,Sorcery,0,1.0
+1308,4,R,TBLD Rageboiler of Mogis,Enchantment Creature - Minotaur ,0,1.0
+1279,3,R,TBLD Seething Song,Flash Sorcery,0,1.0
+1278,1,R,TBLD Mana Rite,Flash Sorcery,0,1.0
+1277,1,U,TBLD Maximize Altitude,Flash Sorcery,0,1.0
+1276,1,R,TBLD Maximize Velocity,Sorcery,0,1.0
+1275,1,R,TBLD Renegade Tactics,Sorcery,0,1.0
+1274,1,R,TBLD Magma Spikes,Sorcery,0,1.0
+1272,3,HGW,TBLD Clachan Unity,Sorcery,0,1.0
+1271,5,G,TBLD Shared Summons,Flash Sorcery,0,
+1269,3,U,TBLD Thirst for Meaning,Flash Sorcery,0,0.0
+1268,2,G,TBLD Grapple with the Past,Flash Sorcery,0,
+1280,1,R,TBLD Hearts Yearning,Flash Sorcery,0,1.0
+1267,1,B,TBLD Vindictive Changeling,Creature - Shapeshifter ,0,1.0
+1265,1,W,TBLD Empathetic Changeling,Creature - Shapeshifter ,0,
+1264,2,W,TBLD Teesh Fair Mousemaiden,Legendary Creature - Rat Cleric ,0,0.6666666666666666
+1263,1,W,TBLD Gentle Hierophant,Creature - Elf Shaman ,0,
+1262,4,G,TBLD Nullmage Shepherd,Creature - Elf Shaman ,0,
+1260,4,G,TBLD Conclave Stone-Seeder,Creature - Elf Shaman ,0,
+1259,2,MGW,TBLD Nurturing Herbalist,Creature - Human Shaman ,0,
+1258,2,U,TBLD Field Researcher,Creature - Elf Wizard ,0,0.0
+1257,2,MRG,TBLD Savageborn Hydra,Creature - Hydra ,0,
+1256,2,MUR,TBLD Beamsplitter Mage,Creature - Vedalken Wizard ,0,0.0
+1255,1,HUR,TBLD Nivmagus Elemental,Creature - Elemental ,0,
+1266,3,C,TBLD Changeling Weirder,Creature - Shapeshifter ,0,1.0
+1281,2,B,TBLD Ransack the Lab,Sorcery,0,
+1282,2,R,TBLD Glorious End,Flash Sorcery,0,1.0
+1283,1,R,TBLD Assault Strobe,Sorcery,0,1.0
+1307,7,R,TBLD Faultgrinder,Flash Enchantment Creature - Elemental ,0,1.0
+1305,4,MUR,TBLD Nimble Amalgam,Creature - Zombie Rogue ,0,1.0
+1304,2,R,TBLD Tigers Claw Apprentice,Creature - Elf Monk ,0,
+1303,2,U,TBLD Mistfire Disciple,Creature - Human Monk ,0,
+1302,2,R,TBLD Abbot of Keral Keep,Creature - Human Monk ,0,0.8
+1301,5,R,TBLD Cyclops Electromancer,Creature - Giant Wizard ,0,
+1300,2,R,TBLD Dragonkin Berserker,Creature - Human Berserker ,0,
+1299,4,U,TBLD Wing Splicer,Creature - Phyrexian Artificer ,0,
+1298,4,W,TBLD Master Splicer,Creature - Phyrexian Artificer ,0,
+1297,4,W,TBLD Sensor Splicer,Creature - Phyrexian Artificer ,0,
+1296,4,G,TBLD Vital Splicer,Creature - Phyrexian Artificer ,0,
+1295,6,G,TBLD Maul Splicer,Creature - Phyrexian Artificer ,0,
+1294,6,U,TBLD Brine Giant,Creature - Giant ,0,
+1293,5,G,TBLD Howling Giant,Creature - Giant Shaman ,0,
+1292,2,R,TBLD Goblin Spymaster,Creature - Goblin Warrior ,0,
+1291,2,R,TBLD Stone-Sling Squad,Creature - Goblin Warrior ,0,
+1290,2,R,TBLD Mardu Scout,Creature - Goblin Scout ,0,
+1289,3,MUR,TBLD Beacon Bolt,Sorcery,0,
+1288,1,R,TBLD Raze,Flash Sorcery,0,
+1287,2,B,TBLD Torment of Hailfire,Sorcery,0,1.0
+1286,2,B,TBLD Heinous Offering,Sorcery,0,1.0
+1285,2,G,TBLD Natures Lore,Sorcery,0,
+1284,2,G,TBLD Buried Treasure,Flash Sorcery,0,
+1309,4,MRW,TBLD Armageddons Arrival,Sorcery,0,1.0
+1382,2,G,TBLD Natures Embrace,Sorcery,0,0.75
+1383,2,R,TBLD Barbed Lightning,Flash Sorcery,0,
+1384,2,W,TBLD Roar of the Kha,Flash Sorcery,0,
+1478,1,U,TBLD Dizzy Spell,Flash Sorcery,0,
+1477,2,W,TBLD Sojourn,Flash Sorcery,0,
+1475,2,C,TBLD Summoning Stone,Artifact,0,1.0
+1474,2,W,TBLD Kor Skyfisher,Creature - Kor Scout ,0,
+1473,1,W,TBLD Glint Hawk,Creature - Bird ,0,
+1472,2,C,TBLD Alchemists Vial,Artifact,0,
+1471,2,C,TBLD Scorpion Turret,Artifact,0,
+1469,0,C,TBLD Mox Pyrite,Artifact,0,1.0
+1467,0,C,TBLD Mox Tantalite,Artifact,0,1.0
+1465,1,C,TBLD Navigators Bauble,Artifact,0,1.0
+1479,1,B,TBLD Village Rites,Flash Sorcery,0,0.375
+1464,1,C,TBLD Chromatic Bauble,Artifact,0,1.0
+1462,1,C,TBLD Riftsweepers Bauble,Artifact,0,1.0
+1461,7,C,TBLD Meteor Golem,Artifact Creature - Golem ,0,1.0
+1460,5,C,TBLD Gilded Lotus,Artifact,0,1.0
+1459,4,C,TBLD Smokestack,Artifact,0,1.0
+1458,4,C,TBLD Sandstone Sentinel,Artifact Creature - Golem ,0,1.0
+1456,3,R,TBLD Seize the Spoils,Sorcery,0,
+1455,2,MBR,TBLD Terminal Agony,Sorcery,0,
+1454,3,R,TBLD Magic Missile,Sorcery,0,
+1453,4,R,TBLD Unexpected Windfall,Flash Sorcery,0,
+1452,2,MWB,TBLD Castigate,Sorcery,0,
+1463,1,C,TBLD Commanders Bauble,Artifact,0,1.0
+1480,5,B,TBLD From Under the Floorboards,Sorcery,0,
+1481,3,W,TBLD Refreshing Breeze,Flash Sorcery,0,
+1482,3,U,TBLD Keeper of Antiquities,Creature - Merfolk Wizard ,0,1.0
+1509,1,R,TBLD Crash Through,Sorcery,0,1.0
+1508,5,R,TBLD Scrap Mastery,Sorcery,0,1.0
+1507,4,R,TBLD Granulate,Sorcery,0,
+1505,1,C,TBLD Neural Integrator,Artifact,0,0.5
+1504,2,C,TBLD Prophetic Prism,Artifact,0,1.0
+1503,7,U,TBLD Scholar of the Ages,Creature - Human Wizard ,0,
+1502,3,U,TBLD Merfolk Skyscout,Creature - Merfolk Scout ,0,
+1500,4,U,TBLD Tempest Caller,Creature - Merfolk Wizard ,0,1.0
+1498,4,U,TBLD Shipwreck Dowser,Creature - Merfolk Wizard ,0,1.0
+1496,2,R,TBLD Kiln Fiend,Creature - Elemental Beast ,0,1.0
+1495,2,R,TBLD Arena Athlete,Creature - Human ,0,1.0
+1494,3,R,TBLD Irreverent Revelers,Creature - Satyr ,0,
+1493,1,R,TBLD Satyr Hoplite,Creature - Satyr Soldier ,0,1.0
+1492,1,W,TBLD Skophos Reformed,Creature - Minotaur Soldier ,0,
+1491,4,W,TBLD Dawnbringer Charioteers,Creature - Human Soldier ,0,
+1490,2,W,TBLD Phalanx Leader,Creature - Human Soldier ,0,
+1489,1,R,TBLD Akroan Crusader,Creature - Human Soldier ,0,
+1488,3,B,TBLD Curse-Blood Morrigan,Creature - Human Rogue ,0,
+1487,1,B,TBLD Tormented Hero,Creature - Human Warrior ,0,
+1486,2,MWU,TBLD Battlewise Hoplite,Creature - Human Soldier ,0,
+1485,4,G,TBLD Forerunner of the Heralds,Flash Creature - Merfolk Scout ,0,
+1484,2,U,TBLD Wavecrash Triton,Creature - Merfolk Wizard ,0,
+1483,4,U,TBLD Tidecrest Maiden,Creature - Merfolk Wizard ,0,1.0
+1450,2,U,TBLD Sky Diamond,Artifact,0,
+1449,2,C,TBLD Prismite,Artifact Creature - Golem ,0,
+1448,2,C,TBLD Prismatic Lens,Artifact,0,1.0
+1447,2,G,TBLD Moss Diamond,Artifact,0,
+1415,5,B,TBLD Hail of Daggers,Flash Sorcery,0,0.625
+1414,4,B,TBLD Twist of Fate,Flash Sorcery,0,
+1413,4,MRW,TBLD Heroic Reinforcements,Sorcery,0,
+1412,2,W,TBLD Call of Duty,Flash Sorcery,0,
+1410,2,U,TBLD Call of the Clocktower,Sorcery,0,
+1409,4,R,TBLD Unload,Sorcery,0,1.0
+1408,2,W,TBLD Divine Gambit,Flash Sorcery,0,1.0
+1406,2,W,TBLD Somber Pause,Sorcery,0,1.0
+1404,2,B,TBLD Smallpox,Sorcery,0,
+1403,3,B,TBLD Ghastly Bargain,Sorcery,0,0.5
+1401,3,B,TBLD Memory Leak,Sorcery,0,0.0
+1400,2,B,TBLD Pickpocket,Sorcery,0,0.0
+1396,3,B,TBLD Infectious Outbreak,Flash Sorcery,0,
+1395,3,W,TBLD Second Sunrise,Flash Sorcery,0,1.0
+1393,2,B,TBLD Murderous Compulsion,Sorcery,0,0.5
+1392,2,B,TBLD Victim of Night,Flash Sorcery,0,0.8
+1391,2,B,TBLD Shades Craving,Flash Sorcery,0,0.375
+1390,3,U,TBLD Circular Logic,Flash Sorcery,0,0.6363636363636364
+1389,3,R,TBLD Gaze of Adamaro,Flash Sorcery,0,0.0
+1388,2,MBR,TBLD Whiplash,Sorcery,0,1.0
+1387,3,R,TBLD Fiery Temper,Flash Sorcery,0,1.0
+1386,2,R,TBLD Fiery Fusillade,Sorcery,0,0.0
+1385,2,U,TBLD Archival Analysis,Flash Sorcery,0,
+1416,2,B,TBLD Addle,Sorcery,0,1.0
+1512,1,G,TBLD River Heralds Boon,Flash Sorcery,0,
+1417,3,B,TBLD Shadowfugue,Flash Sorcery,0,
+1419,1,G,TBLD Leaf Arrow,Flash Sorcery,0,
+1446,2,W,TBLD Marble Diamond,Artifact,0,1.0
+1445,2,C,TBLD Magus of the Helm,Artifact Creature - Human Wizard ,0,1.0
+1444,1,C,TBLD Junkshop Assistant,Artifact Creature - Construct ,0,1.0
+1443,2,C,TBLD Isochron Scepter,Artifact,0,0.8571428571428571
+1442,2,C,TBLD Guild Globe,Artifact,0,
+1441,2,R,TBLD Fire Diamond,Artifact,0,1.0
+1440,2,B,TBLD Charcoal Diamond,Artifact,0,1.0
+1439,2,B,TBLD Plunge into Darkness,Flash Sorcery,0,0.0
+1438,1,B,TBLD Bog Rebirth,Flash Sorcery,0,1.0
+1437,3,HWB,TBLD Unmake,Flash Sorcery,0,
+1436,1,B,TBLD Bloodletting Ritual,Flash Sorcery,0,1.0
+1435,2,R,TBLD Blazing Vortex,Sorcery,0,0.0
+1434,3,R,TBLD Incinerating Breath,Flash Sorcery,0,1.0
+1432,2,W,TBLD Servo Exhibition,Sorcery,0,
+1431,2,W,TBLD Raise the Alarm,Flash Sorcery,0,
+1430,4,MUB,TBLD Mystical Teachings,Flash Sorcery,0,
+1429,4,MBR,TBLD Wrecking Ball,Flash Sorcery,0,
+1428,2,U,TBLD Halt Order,Flash Sorcery,0,
+1427,2,C,TBLD Wilted Lotus,Artifact,0,1.0
+1423,0,C,TBLD Mana Cylix,Artifact,0,1.0
+1422,2,C,TBLD Sundial of the Infinite,Artifact,0,1.0
+1421,1,C,TBLD Brainstone,Artifact,0,
+1420,1,C,TBLD Divining Cards,Artifact,0,
+1418,3,B,TBLD Go Blank,Sorcery,0,
+1772,2,R,TBLD Roast,Sorcery,0,
+1773,2,R,TBLD Double Tap,Flash Sorcery,0,0.0
+1774,1,R,TBLD Searing Touch,Flash Sorcery,0,1.0
+2127,6,R,TBLD Stormfront Hellkite,Creature - Dragon ,0,1.0
+2126,2,MBR,TBLD Rakdos Headliner,Creature - Devil ,0,1.0
+2125,1,R,TBLD Cackling Toady,Creature - Devil ,0,
+2124,6,R,TBLD Flayer of the Hatebound,Creature - Devil ,0,1.0
+2123,5,MWUBRG,TBLD Fusion Elemental,Creature - Elemental ,0,
+2122,5,MWUBRG,TBLD Chromanticore,Enchantment Creature - Manticore ,0,1.0
+2121,1,G,TBLD Basking Rootwalla,Creature - Lizard ,0,
+2120,5,G,TBLD Starving Vorapede,Creature - Insect ,0,1.0
+2119,1,C,TBLD Gamblers Bauble,Artifact,0,0.7
+2118,2,MRG,TBLD Ruination Rioter,Creature - Human Berserker ,0,1.0
+2128,5,R,TBLD Ashmaw Tyrant,Creature - Dragon ,0,0.0
+2117,4,R,TBLD Clickslither,Creature - Insect ,0,
+2115,2,HWB,TBLD Cyber-Intelligence Operative,Creature - Human Rogue Soldier ,0,
+2114,3,B,TBLD Moriok Scavenger,Creature - Human Rogue ,0,1.0
+2113,1,B,TBLD Mistress of Moonlight,Creature - Elf Vampire Shaman ,0,
+2109,4,U,TBLD Riverwise Augur,Creature - Merfolk Wizard ,0,1.0
+2108,5,U,TBLD Rootwater Drowner,Creature - Merfolk ,0,0.0
+2107,4,U,TBLD Lyxchoas Quetzalcoatl,Creature - Snake ,0,
+2106,2,G,TBLD Noose Constrictor,Creature - Snake ,0,
+2105,2,G,TBLD Sylvan Vanguard,Creature - Elf Warrior ,0,1.0
+2104,3,G,TBLD Farhaven Ranger,Creature - Elf Scout ,0,1.0
+2103,2,G,TBLD Carapace Forger,Creature - Elf Artificer ,0,
+2116,5,R,TBLD Vulshok Battlemaster,Creature - Human Warrior ,0,
+2130,3,MWU,TBLD Hussar Patrol,Flash Creature - Human Knight ,0,
+2131,3,HWU,TBLD Vassal Soul,Creature - Spirit ,0,1.0
+2132,3,MWU,TBLD Council of the Absolute,Creature - Human Advisor ,0,
+2159,3,MRG,TBLD Rhythm of the Wild,Enchantment,0,0.0
+2158,4,W,TBLD Auriok Mettle,Enchantment,0,0.14285714285714285
+2157,3,R,TBLD Stensia Masquerade,Enchantment,0,1.0
+2156,2,W,TBLD Suppression Field,Enchantment,0,
+2154,5,B,TBLD Lilianas Mastery,Enchantment,0,
+2153,2,R,TBLD Touch of the Void,Sorcery,0,
+2152,2,U,TBLD Horribly Awry,Flash Sorcery,0,
+2151,6,B,TBLD Grip of Desolation,Sorcery,0,
+2150,4,W,TBLD Distortion Barrier,Enchantment,0,
+2149,4,G,TBLD From Beyond,Enchantment,0,
+2148,5,W,TBLD Consulate Crackdown,Enchantment,0,
+2147,3,W,TBLD History of Benalia,Enchantment - Saga ,0,1.0
+2146,5,W,TBLD Fall of the Thran,Enchantment - Saga ,0,
+2143,1,W,TBLD Chosen Hoplite,Creature - Human Soldier ,0,
+2142,1,U,TBLD Artisan of Forms,Creature - Human Wizard ,0,
+2141,2,U,TBLD Sage of Hours,Creature - Human Wizard ,0,1.0
+2140,2,W,TBLD Akroan Skyguard,Flash Creature - Human Soldier ,0,1.0
+2139,2,W,TBLD Auriok Edgewright,Creature - Human Soldier ,0,1.0
+2138,6,U,TBLD Geralfs Mindcrusher,Creature - Zombie ,0,1.0
+2137,6,B,TBLD Burning-Rune Demon,Creature - Demon ,0,1.0
+2136,4,B,TBLD Souldrinker,Creature - Demon ,0,
+2134,2,W,TBLD Knight of New Benalia,Creature - Human Knight ,0,
+2133,4,W,TBLD Knight of Old Benalia,Creature - Human Knight ,0,
+2102,2,B,TBLD Heir of Falkenrath,Creature - Vampire Noble ,0,1.0
+2160,5,R,TBLD Bombardment Zone,Enchantment,0,
+2101,3,R,TBLD Flamewake Phoenix,Creature - Bird Elemental ,0,1.0
+2099,3,B,TBLD Beelzus Plaguetouched Maestro,Legendary Creature - Bird Wizard ,0,
+2065,1,B,TBLD Assimilator Slime,Creature - Ooze  ,0,1.0
+2063,4,MRW,TBLD Firemane Avenger,Creature - Angel ,0,1.0
+2062,0,C,TBLD Sol Talisman,Artifact,0,1.0
+2061,5,C,TBLD Darksteel Replica,Artifact,0,
+2060,3,C,TBLD Unstable Obelisk,Artifact,0,
+2059,4,C,TBLD Lux Cannon,Artifact,0,
+2058,2,C,TBLD Thought Vessel,Artifact,0,1.0
+2057,3,C,TBLD Temple Bell,Artifact,0,1.0
+2056,4,C,TBLD Arcbound Bruiser,Artifact Enchantment Creature - Elemental ,0,
+2055,1,C,TBLD Myr Reprocessors,Artifact Creature - Myr ,0,1.0
+2066,3,B,TBLD Kyra Vengeful Wraith,Legendary Creature - Spirit ,0,1.0
+2054,1,C,TBLD Myr Scrapling,Artifact Creature - Myr ,0,
+2052,3,C,TBLD Myr Galvanizer,Artifact Creature - Myr ,0,1.0
+2051,7,C,TBLD Myr Enforcer,Artifact Creature - Myr ,0,1.0
+2050,2,C,TBLD Brass Overseer,Artifact Creature - Construct ,0,
+2049,0,C,TBLD Arcbound Hydra,Artifact Creature - Hydra ,0,1.0
+2047,4,C,TBLD Sen Fist of the Five Suns,Legendary Artifact Creature - Myr ,0,
+2046,4,C,TBLD Karn Solemn Voyager,Legendary Artifact Creature - Golem ,0,0.2857142857142857
+2044,9,C,TBLD Darksteel Forge,Artifact,0,
+2043,2,C,TBLD Aetherspec Goggles,Artifact,0,0.0
+2042,2,C,TBLD Idol of Oblivion,Artifact,0,
+2041,3,C,TBLD Darksteel Reactor,Artifact,0,
+2053,1,C,TBLD Myr Servitor,Artifact Creature - Myr ,0,
+2067,3,B,TBLD Rokna the Primordial,Legendary Creature - Ooze ,0,
+2068,2,G,TBLD Roba the Hood,Legendary Flash Creature - Snake Rogue  ,0,1.0
+2070,4,MRG,TBLD Domri Rade Wild Anarch,Legendary Creature - Human Berserker ,0,1.0
+2098,3,B,TBLD Callous Bloodmage,Creature - Vampire Wizard ,0,1.0
+2097,1,R,TBLD Skilled Sangromancer,Creature - Vampire Wizard ,0,0.4444444444444444
+2096,1,R,TBLD Insolent Neonate,Creature - Vampire ,0,1.0
+2095,2,MWB,TBLD High Priest of Penance,Creature - Human Cleric ,0,
+2094,4,W,TBLD Wealthy Prelate,Creature - Human Cleric ,0,1.0
+2093,2,W,TBLD Pious Duke,Creature - Dwarf Noble Cleric ,0,
+2092,2,W,TBLD Mine Corp Muscle,Creature - Dwarf Warrior ,0,1.0
+2091,2,B,TBLD Blood-Chin Rager,Creature - Human Warrior ,0,
+2090,1,B,TBLD Mardu Shadowspear,Creature - Human Warrior ,0,
+2089,1,G,TBLD Indelible Hydra,Creature - Hydra ,0,1.0
+2088,3,U,TBLD Sad King Gillus,Legendary Creature - Merfolk Noble ,0,1.0
+2087,5,U,TBLD Aesqus Benthic Oracle,Legendary Creature - Merfolk Wizard ,0,0.0
+2086,5,R,TBLD Matlaxal the Devastator,Legendary Creature - Dinosaur ,0,
+2085,3,B,TBLD Stillhollow Headhunter,Creature - Spirit ,0,
+2084,3,G,TBLD Nyx Channeler,Creature - Satyr Warrior Shaman ,0,0.5
+2083,2,G,TBLD Dazzling Zebracorn,Creature - Unicorn ,0,
+2082,2,MUB,TBLD Circo Sinister Lobotomist,Legendary Creature - Human Rogue ,0,
+2081,2,MUB,TBLD Lazav Maestro of Whispers,Legendary Creature - Shapeshifter ,0,
+2079,5,MBG,TBLD Vraska Assassin Unseen,Legendary Creature - Gorgon Rogue ,0,
+2076,4,U,TBLD Ligura Godstream Ancient,Legendary Flash Creature - Dinosaur ,0,0.0
+2075,4,B,TBLD Ob Nixilis the Hateful,Legendary Creature - Demon ,0,0.0
+2074,3,W,TBLD Avacyn Hope of Innistrad,Legendary Creature - Angel ,0,
+2071,2,MGU,TBLD Speaker Zegana Utopian,Legendary Creature - Merfolk Wizard ,0,0.8888888888888888
+2100,3,R,TBLD Sootwing Phoenix,Creature - Bird Elemental ,0,1.0
+2161,3,R,TBLD Total War,Enchantment,0,
+2162,2,R,TBLD Adrenaline,Enchantment,0,
+2163,5,W,TBLD Song of the Worldsoul,Enchantment,0,
+2252,0,G,TBLD Parasitic Sprouts,Land,0,1.0
+2250,0,MBR,TBLD Luxury Suite,Land,0,1.0
+2249,0,MUB,TBLD Morphic Pool,Land,0,1.0
+2248,0,MGU,TBLD Rejuvenating Springs,Land,0,
+2247,0,MWU,TBLD Sea of Clouds,Land,0,
+2246,0,MRW,TBLD Spectator Seating,Land,0,
+2245,0,MGR,TBLD Spire Garden,Land,0,
+2244,0,MUR,TBLD Training Center,Land,0,
+2243,0,MWB,TBLD Vault of Champions,Land,0,
+2242,0,MBG,TBLD Undergrowth Stadium,Land,0,
+2253,0,W,TBLD Worn Cobblestone,Land,0,
+2241,0,MGW,TBLD Bountiful Promenade,Land,0,
+2239,0,C,TBLD Astral Gate,Land,0,1.0
+2238,0,C,TBLD Abandoned Mansion,Land,0,1.0
+2237,0,C,TBLD Quickwater Brook,Land,0,1.0
+2236,0,C,TBLD Kings Arsenal,Land,0,
+2235,1,B,TBLD Bone Splinters,Sorcery,0,0.0
+2233,2,U,TBLD Arcane Whorl,Flash Sorcery,0,
+2232,1,U,TBLD Twiddle,Flash Sorcery,0,
+2231,3,U,TBLD Wade Through,Flash Sorcery,0,
+2230,4,W,TBLD Refurbish,Flash Sorcery,0,
+2229,3,U,TBLD Metallic Rebuke,Flash Sorcery,0,
+2240,0,C,TBLD Alchemists Workshop,Land,0,
+2254,0,W,TBLD Falling Stars,Land,0,1.0
+2256,0,U,TBLD Sophists Perch,Land,0,1.0
+2259,0,R,TBLD Active Eruptions,Land,0,1.0
+2283,7,R,TBLD Magma Blast,Sorcery,0,
+2282,1,B,TBLD Macabre Waltz,Sorcery,0,
+2281,1,U,TBLD Annul,Flash Sorcery,0,0.0
+2280,1,U,TBLD Subtle Misstep,Flash Sorcery,0,0.5
+2279,7,U,TBLD Fishing Trip,Flash Sorcery,0,
+2277,2,G,TBLD Showmatch,Sorcery,0,
+2276,1,G,TBLD Primal Might,Sorcery,0,1.0
+2275,1,G,TBLD Savage Punch,Sorcery,0,0.5
+2274,3,G,TBLD Predators Instinct,Sorcery,0,0.0
+2273,2,R,TBLD Cathartic Reunion,Sorcery,0,
+2272,1,B,TBLD False Cure,Flash Sorcery,0,
+2271,4,G,TBLD Terramorph,Sorcery,0,
+2270,4,U,TBLD Distant Melody,Sorcery,0,
+2269,4,R,TBLD Goblin War Party,Sorcery,0,
+2268,1,R,TBLD Kuldotha Rebirth,Sorcery,0,
+2267,2,U,TBLD Master the Cosmos,Sorcery,0,
+2266,1,G,TBLD Adventurous Impulse,Flash Sorcery,0,
+2265,5,U,TBLD Lucid Dreams,Sorcery,0,
+2264,2,U,TBLD Rise and Shine,Sorcery,0,1.0
+2263,6,B,TBLD Ever After,Sorcery,0,
+2262,4,B,TBLD Zombify,Sorcery,0,1.0
+2261,2,W,TBLD Judgement,Sorcery,0,
+2260,0,R,TBLD Rickety Tracks,Land,0,1.0
+2228,1,R,TBLD Galvanic Blast,Flash Sorcery,0,1.0
+2227,1,W,TBLD Masters Call,Flash Sorcery,0,1.0
+2226,2,B,TBLD Mortal Fate,Flash Sorcery,0,0.0
+2225,2,B,TBLD Sylvan Spite,Flash Sorcery,0,1.0
+2192,0,MUB,TBLD Mistvault Bridge,Artifact Land,0,
+2191,0,MWB,TBLD Goldmire Bridge,Artifact Land,0,1.0
+2190,0,MBR,TBLD Drossforge Bridge,Artifact Land,0,
+2189,0,MBG,TBLD Darkmoss Bridge,Artifact Land,0,1.0
+2188,0,MWU,TBLD Razortide Bridge,Artifact Land,0,
+2187,0,MUR,TBLD Silverbluff Bridge,Artifact Land,0,1.0
+2186,0,MRW,TBLD Rustvale Bridge,Artifact Land,0,
+2185,0,MRG,TBLD Slagwoods Bridge,Artifact Land,0,
+2184,0,MGU,TBLD Tanglepool Bridge,Artifact Land,0,
+2183,0,MGW,TBLD Thornglint Bridge,Artifact Land,0,1.0
+2182,0,U,TBLD Submerged Tower,Artifact Land,0,1.0
+2179,0,R,TBLD Desert Cache,Artifact Land,0,1.0
+2177,3,MBR,TBLD Claim_Fame,Sorcery // Sorcery,0,
+2175,4,G,TBLD Dawns Reflection,Enchantment - Aura ,0,
+2174,3,G,TBLD Overgrowth,Enchantment - Aura ,0,1.0
+2173,2,G,TBLD Fertile Ground,Enchantment - Aura ,0,1.0
+2172,1,W,TBLD Sentinels Eyes,Enchantment - Aura ,0,1.0
+2171,1,B,TBLD Malignant Pact,Enchantment - Aura ,0,1.0
+2170,1,B,TBLD Dying Wish,Enchantment - Aura ,0,
+2167,3,R,TBLD Mana Flare,Enchantment,0,
+2166,4,W,TBLD Stubborn Resistance,Enchantment,0,
+2165,2,U,TBLD Trainers Eyes,Enchantment,0,
+2164,1,W,TBLD One on One,Enchantment,0,1.0
+2194,0,MWUBRG,TBLD Grand Library of Paliano,Legendary Land,0,1.0
+2040,3,C,TBLD Homunculus Blade,Artifact - Equipment ,0,
+2195,0,U,TBLD Dakra Isles,Enchantment Land,0,1.0
+2197,0,W,TBLD Oreskos Vale,Enchantment Land,0,1.0
+2223,3,B,TBLD Pharikas Libation,Flash Sorcery,0,
+2222,2,U,TBLD Frantic Inventory,Flash Sorcery,0,1.0
+2221,1,R,TBLD Supercharge,Sorcery,0,1.0
+2220,3,R,TBLD Arcbond,Flash Sorcery,0,1.0
+2219,10,R,TBLD Apex of Power,Sorcery,0,1.0
+2218,4,G,TBLD Reap and Sow,Sorcery,0,
+2216,5,G,TBLD Creeping Renaissance,Sorcery,0,1.0
+2215,1,U,TBLD Retraction Helix,Flash Sorcery,0,
+2214,2,W,TBLD Back in Action,Flash Sorcery,0,
+2212,2,R,TBLD Bludgeon,sorcery,0,
+2211,3,MUB,TBLD Mind Grind,Sorcery,0,
+2210,3,MUB,TBLD Mind Funeral,Sorcery,0,1.0
+2209,2,B,TBLD Alms of the Vein,Sorcery,0,1.0
+2208,3,B,TBLD Suffocating Fumes,Flash Sorcery,0,0.0
+2207,2,MRW,TBLD Ride Down,Flash Sorcery,0,
+2206,2,U,TBLD Curate,Flash Sorcery,0,
+2205,4,MBG,TBLD Culling Ritual,Sorcery,0,
+2204,1,G,TBLD Exponential Growth,Sorcery,0,
+2203,2,HWB,TBLD Essence Infusion,Flash Sorcery,0,1.0
+2202,2,U,TBLD Potent Denial,Flash Sorcery,0,1.0
+2200,3,U,TBLD Artificers Epiphany,Flash Sorcery,0,1.0
+2199,0,R,TBLD Den of Thraxes,Enchantment Land,0,1.0
+2198,0,G,TBLD Nessian Wilds,Enchantment Land,0,1.0
+2196,0,B,TBLD Depths of Tizerus,Enchantment Land,0,
+2039,3,C,TBLD Ironclad Augment,Artifact - Equipment ,0,
+2038,0,C,TBLD Paradise Mantle,Artifact - Equipment ,0,
+2037,1,C,TBLD Arcbound Worker,Artifact Creature - Construct ,0,
+1870,1,R,TBLD Volcanic Aftershock,Sorcery,0,1.0
+1869,2,MUR,TBLD Duplicate,Flash Sorcery,0,
+1868,3,B,TBLD Snatch,Flash Sorcery,0,
+1867,2,MBR,TBLD Auger Spree,Flash Sorcery,0,
+1865,1,U,TBLD Stealth Mission,Sorcery,0,1.0
+1864,1,R,TBLD Smokescreen,Sorcery,0,1.0
+1862,1,R,TBLD Scorch,Sorcery,0,0.9512195121951219
+1860,5,R,TBLD Grand Finale,Sorcery,0,1.0
+1857,2,MRW,TBLD Swiftblade Vindicator,Creature - Human Soldier ,0,1.0
+1856,1,W,TBLD Akrasan Squire,Creature - Human Soldier ,0,
+1873,6,R,TBLD Madcap Roulette,Sorcery,0,
+1854,2,W,TBLD Enlightened Ascetic,Creature - Cat Monk ,0,
+1852,4,G,TBLD Timeless Witness,Creature - Human Shaman ,0,
+1851,1,B,TBLD Scrib Nibblers,Creature - Rat ,0,
+1850,1,B,TBLD Ravenous Vermin,Creature - Rat ,0,
+1849,1,B,TBLD Scumshop Goon,Creature - Rat Warrior ,0,1.0
+1848,2,B,TBLD Vile Manifestation,Creature - Horror ,0,
+1847,3,B,TBLD Drakestown Forgotten,Creature - Zombie ,0,1.0
+1846,5,B,TBLD Noosegraf Mob,Creature - Zombie ,0,1.0
+1845,2,B,TBLD Nim Lasher,Creature - Zombie ,0,
+1844,2,B,TBLD Despoiler of Souls,Creature - Horror ,0,
+1843,2,B,TBLD Plaguepiercer,Creature - Horror ,0,1.0
+1853,2,W,TBLD Adorned Pouncer,Creature - Cat ,0,0.0
+1874,1,R,TBLD Lava Dart,Flash Sorcery,0,1.0
+1875,2,R,TBLD Arcane Bolt,Flash Sorcery,0,
+1876,2,R,TBLD Flaring Pain,Flash Sorcery,0,0.3333333333333333
+1904,1,W,TBLD Holy Strength,Enchantment - Aura ,0,1.0
+1903,4,W,TBLD Indestructibility,Flash Enchantment - Aura ,0,1.0
+1902,2,W,TBLD Light of Promise,Enchantment - Aura ,0,
+1901,3,W,TBLD Wings of Thalmyda,Enchantment - Aura ,0,1.0
+1900,1,U,TBLD Curious Obsession,Enchantment - Aura ,0,0.75
+1899,2,W,TBLD All That Glitters,Enchantment - Aura ,0,0.6666666666666666
+1898,2,G,TBLD Fists of Ironwood,Enchantment - Aura ,0,1.0
+1897,5,G,TBLD Stalking Predators,Enchantment - Aura ,0,
+1896,1,R,TBLD Combat Reflexes,Enchantment - Aura ,0,1.0
+1895,1,R,TBLD Alpine Moon,Enchantment,0,
+1894,5,R,TBLD Echoes of Power,Enchantment,0,
+1893,5,B,TBLD Pall of Death,Enchantment,0,
+1892,4,G,TBLD Primordial Beat,Enchantment,0,
+1891,2,U,TBLD Crystalline Resonance,Enchantment,0,1.0
+1890,3,W,TBLD Astral Slide,Enchantment,0,
+1887,2,U,TBLD Merrow Commerce,Enchantment,0,
+1886,5,MWU,TBLD Righteous Authority,Enchantment - Aura ,0,
+1885,2,R,TBLD Tin Street Market,Enchantment - Aura ,0,
+1884,2,R,TBLD Curse of Malware,Enchantment - Aura Curse ,0,0.0
+1883,2,MUR,TBLD Short Circuit,Flash Sorcery,0,
+1882,2,R,TBLD Kalameets Gaze,Sorcery,0,0.7142857142857143
+1879,2,R,TBLD Arc Trail,Sorcery,0,0.0
+1877,2,R,TBLD Electrodominance,Flash Sorcery,0,0.8571428571428571
+1841,2,W,TBLD Those Who Serve,Creature - Zombie ,0,
+1840,5,MRWB,TBLD Zurgo Helmsmasher,Legendary Creature - Orc Warrior ,0,
+1839,5,MBR,TBLD Boltwing Marauder,Creature - Dragon ,0,
+1838,4,R,TBLD Shockmaw Dragon,Creature - Dragon ,0,
+1800,4,G,TBLD Cyber-Enhanced Tyranno,Artifact Creature - Dinosaur ,0,0.2
+1799,4,G,TBLD Siege Troll,Creature - Troll ,0,
+1798,6,U,TBLD Reliquary Beholder,Creature - Homunculus ,0,
+1796,2,R,TBLD Pop Gobber,Creature - Goblin Shaman ,0,0.5
+1795,4,R,TBLD Student of Kiki-Jiki,Creature - Goblin Shaman ,0,1.0
+1794,2,B,TBLD Putrid Goblin,Creature - Zombie Goblin ,0,
+1793,2,R,TBLD Dark-Dweller Oracle,Creature - Goblin Shaman ,0,
+1792,2,R,TBLD Goblin Wardriver,Creature - Goblin Warrior ,0,
+1791,2,R,TBLD Mudbutton Torchrunner,Creature - Goblin Warrior ,0,
+1790,1,R,TBLD Ageless Prince,Creature - Vampire Rogue Noble ,0,
+1789,1,R,TBLD Rigging Runner,Creature - Goblin Rogue ,0,
+1788,1,R,TBLD Fanatical Firebrand,Creature - Goblin Rogue ,0,0.8888888888888888
+1787,1,R,TBLD Reckless Waif,Creature - Human Rogue Werewolf ,0,1.0
+1786,3,R,TBLD Flash of Steel,Flash Sorcery,0,
+1785,3,R,TBLD Rush of Blood,Flash Sorcery,0,1.0
+1783,1,R,TBLD Firedrinker Satyr,Creature - Satyr Shaman ,0,1.0
+1781,7,R,TBLD Flame Wave,Sorcery,0,
+1780,2,R,TBLD Electrify,Flash Sorcery,0,
+1779,1,R,TBLD Tremor,Flash Sorcery,0,
+1778,2,R,TBLD Nyxflare,Flash Sorcery,0,
+1777,4,R,TBLD Dazzling Ritual,Sorcery,0,
+1776,2,R,TBLD Essence of Lotus,Sorcery,0,
+1775,4,R,TBLD Lords Voyage,Sorcery,0,
+1801,4,MUR,TBLD Mizzium Slugger,Artifact Creature - Construct ,0,
+1905,2,C,TBLD Lucky Egg,Artifact - Equipment ,0,
+1802,3,R,TBLD Magus of the Stacks,Creature - Human Wizard ,0,1.0
+1804,1,R,TBLD Oobo Traveler,Creature - Human Monk Scout ,0,
+1837,3,W,TBLD Strongarm Monk,Creature - Human Monk ,0,
+1834,7,W,TBLD Soul of Eternity,Creature - Avatar ,0,
+1830,4,R,TBLD Fanatic of Mogis,Creature - Minotaur Shaman ,0,
+1829,3,G,TBLD Karametras Acolyte,Creature - Human Shaman ,0,
+1827,3,W,TBLD Hurloon Elder,Creature - Minotaur Shaman ,0,
+1826,1,W,TBLD Scrappy Calf,Creature - Minotaur ,0,
+1825,2,R,TBLD Minotaur Savant,Creature - Minotaur Shaman ,0,0.0
+1824,3,R,TBLD Minotaur Skullcleaver,Creature - Minotaur Berserker ,0,
+1822,2,R,TBLD Hellspark Elemental,Creature - Elemental ,0,
+1821,2,R,TBLD Electrostatic Field,Creature - Wall ,0,
+1820,2,W,TBLD In Oketras Name,Flash Sorcery,0,1.0
+1819,3,B,TBLD Reaping the Graves,Flash Sorcery,0,
+1818,1,B,TBLD Defeat,Sorcery,0,
+1817,1,B,TBLD Ghastly Demise,Flash Sorcery,0,
+1816,6,R,TBLD Wildfire,Sorcery,0,
+1815,1,B,TBLD Psychic Assault,Sorcery,0,
+1814,2,R,TBLD Fire Giants Fury,Sorcery,0,
+1813,5,G,TBLD Secret Stash,Sorcery,0,
+1812,5,R,TBLD Wild Encounter,Flash Sorcery,0,
+1810,4,R,TBLD Igniclasm,Sorcery,0,0.29411764705882354
+1809,1,R,TBLD Sparkweaver Kirin,Creature - Spirit ,0,1.0
+1808,2,U,TBLD Master of Faces,Creature - Shapeshifter ,0,
+1806,1,R,TBLD Ghitu Lavarunner,Creature - Human Wizard ,0,1.0
+1803,3,R,TBLD Mantle Stoker,Flash Creature - Human Wizard ,0,
+1254,2,MRW,TBLD Mogg Tax Collector,Creature - Goblin Soldier ,0,1.0
+1907,0,C,TBLD Silverskin Armor,Artifact - Equipment ,0,1.0
+1909,5,C,TBLD Necropouncer,Artifact - Equipment ,0,
+2005,1,R,TBLD Falkenrath Gorger,Creature - Vampire Berserker ,0,1.0
+2004,4,R,TBLD Hound of Griselbrand,Creature - Devil Dog ,0,0.16666666666666666
+2003,3,B,TBLD Pitiless Horde,Creature - Orc Berserker ,0,
+2002,3,R,TBLD Krenko Tin Street Kingpin,Legendary Creature - Goblin Rogue ,0,0.0
+2001,2,R,TBLD Goblin Cratermaker,Creature - Goblin Warrior ,0,
+2000,2,R,TBLD Warren Instigator,Creature - Goblin Berserker ,0,
+1999,4,B,TBLD Warren Pilferers,Creature - Goblin Rogue ,0,
+1998,1,B,TBLD Knucklebone Witch,Creature - Goblin Shaman ,0,
+1997,1,B,TBLD Facevaulter,Creature - Goblin Warrior ,0,
+1996,1,R,TBLD Spikeshot Elder,Creature - Goblin Shaman ,0,
+2009,5,U,TBLD Geralfs Masterpiece,Creature - Zombie Horror ,0,1.0
+1995,2,R,TBLD Goblin Bangchuckers,Creature - Goblin Warrior ,0,
+1993,4,R,TBLD Beetleback Chief,Creature - Goblin Warrior ,0,0.0
+1992,4,R,TBLD Goblin Monarch,Creature - Goblin Noble ,0,
+1991,1,R,TBLD Goblin Banneret,Creature - Goblin Soldier ,0,
+1990,4,R,TBLD Goblin Heelcutter,Creature - Goblin Berserker ,0,1.0
+1989,1,R,TBLD Vial Courier,Creature - Human Scout ,0,
+1988,1,G,TBLD Young Wolf,Creature - Wolf ,0,1.0
+1986,2,G,TBLD Qarsi Nobleguard,Creature - Snake Soldier ,0,
+1985,2,G,TBLD Elvish Visionary,Creature - Elf Shaman ,0,1.0
+1984,1,G,TBLD Lone Silverwolf,Creature - Wolf ,0,
+1983,1,G,TBLD Kumenas Speaker,Creature - Merfolk Shaman ,0,1.0
+1994,4,R,TBLD Volley Veteran,Creature - Goblin Warrior ,0,
+2010,3,U,TBLD Stitchwing Skaab,Creature - Zombie ,0,1.0
+2011,2,R,TBLD Dwarven Alchemist,Creature - Dwarf Artificer ,0,
+2012,2,G,TBLD Boneyard Wurm,Creature - Wurm ,0,1.0
+2036,4,C,TBLD Frogmite,Artifact Creature - Frog ,0,1.0
+2035,1,C,TBLD Myr Propagator,Artifact Creature - Myr ,0,1.0
+2034,1,C,TBLD Myr Dabblers,Artifact Creature - Myr ,0,1.0
+2033,2,C,TBLD Perilous Myr,Artifact Creature - Myr ,0,1.0
+2032,2,C,TBLD Myr Retriever,Artifact Creature - Myr ,0,0.5
+2031,2,C,TBLD Omega Myr,Artifact Creature - Myr ,0,1.0
+2030,5,C,TBLD Twisted Myr,Artifact Creature - Phyrexian Myr ,0,0.5
+2029,5,C,TBLD Darksteel Juggernaut,Artifact Creature - Juggernaut ,0,
+2028,2,C,TBLD Shimmer Myr,Artifact Creature - Myr ,0,
+2027,2,C,TBLD Myr Superion,Artifact Creature - Myr ,0,1.0
+2026,2,C,TBLD Alpha Myr,Artifact Creature - Myr ,0,
+2025,3,C,TBLD Alloy Myr,Artifact Creature - Myr ,0,
+2024,3,C,TBLD Palladium Myr,Artifact Creature - Myr ,0,
+2023,2,C,TBLD Leaden Myr,Artifact Creature - Myr ,0,1.0
+2022,2,C,TBLD Iron Myr,Artifact Creature - Myr ,0,1.0
+2021,2,C,TBLD Gold Myr,Artifact Creature - Myr ,0,1.0
+2020,2,C,TBLD Copper Myr,Artifact Creature - Myr ,0,1.0
+2019,2,C,TBLD Silver Myr,Artifact Creature - Myr ,0,1.0
+2018,6,U,TBLD Sphinx of Enlightenment,Creature - Sphinx ,0,
+2016,6,U,TBLD Sphinx of the Chimes,Creature - Sphinx ,0,
+2015,5,U,TBLD Citywatch Sphinx,Creature - Sphinx ,0,
+2014,6,U,TBLD Isperias Skywatch,Creature - Vedalken Knight ,0,
+2013,4,G,TBLD Kavu Climber,Flash Creature - Beast ,0,
+1982,1,U,TBLD Triton Shorestalker,Creature - Merfolk Rogue ,0,
+1981,1,G,TBLD Skarrgan Pit-Skulk,Creature - Human Warrior ,0,1.0
+1980,4,G,TBLD Mucksoaker,Creature - Ooze ,0,1.0
+1979,2,U,TBLD Baral Chief of Compliance,Creature - Human Wizard ,0,
+1939,1,W,TBLD Summary Judgment,Flash Sorcery,0,1.0
+1938,2,R,TBLD Leyfire,Flash Sorcery,0,0.0
+1937,1,G,TBLD Global Presence,Flash Sorcery,0,
+1936,2,G,TBLD Root Snare,Flash Sorcery,0,
+1935,4,G,TBLD Mammoth Growth,Flash Sorcery,0,1.0
+1934,1,U,TBLD Surf the Web,Sorcery,0,1.0
+1933,4,U,TBLD Torrent Seed,Sorcery,0,
+1932,2,R,TBLD Thrill of Possibility,Flash Sorcery,0,1.0
+1931,3,R,TBLD Brimstone Volley,Flash Sorcery,0,
+1930,1,R,TBLD Reckless Abandon,Sorcery,0,1.0
+1929,3,U,TBLD Ethereal Insight,Flash Sorcery,0,
+1928,6,B,TBLD Void Fissure,Sorcery,0,0.0
+1927,2,R,TBLD Zap,Flash Sorcery,0,
+1925,6,G,TBLD Become Immense,Flash Sorcery,0,1.0
+1924,1,G,TBLD Giant Growth,Flash Sorcery,0,1.0
+1923,1,W,TBLD Artful Maneuver,Flash Sorcery,0,1.0
+1922,1,W,TBLD Arresters Zeal,Flash Sorcery,0,1.0
+1921,1,G,TBLD Scrape By,Flash Sorcery,0,0.4444444444444444
+1920,1,W,TBLD Mortals Ardor,Flash Sorcery,0,1.0
+1917,3,G,TBLD Unsettling Embrace,Enchantment - Aura ,0,0.5714285714285714
+1916,3,G,TBLD Hydras Growth,Enchantment - Aura ,0,1.0
+1913,1,G,TBLD Druidic Blessing,Enchantment - Aura ,0,
+1910,2,C,TBLD Fleetfeather Sandals,Artifact - Equipment ,0,
+1940,2,U,TBLD Chart a Course,Sorcery,0,
+1908,1,B,TBLD Reapers Talisman,Artifact - Equipment ,0,
+1948,1,HBG,TBLD Foraging Oozeling,Creature - Ooze ,0,1.0
+1950,2,W,TBLD Clacking Scarecrow,Artifact Creature - Scarecrow ,0,
+1978,3,U,TBLD Bazaar Trademage,Creature - Human Wizard ,0,1.0
+1976,6,B,TBLD Sultai Scavenger,Creature - Bird Warrior ,0,0.5
+1975,6,G,TBLD Hooting Mandrills,Creature - Ape ,0,
+1974,2,U,TBLD Persistent Petitioners,Creature - Human Advisor ,0,
+1973,5,MWU,TBLD Azorius Skyguard,Creature - Human Knight ,0,
+1972,4,MWU,TBLD Windreaver,Creature - Elemental ,0,1.0
+1971,2,MWU,TBLD Resplendent Griffin,Creature - Griffin ,0,
+1970,2,U,TBLD Timestream Navigator,Creature - Human Rogue Wizard ,0,
+1969,10,U,TBLD Deep-Sea Kraken,Creature - Leviathan ,0,1.0
+1968,5,U,TBLD Tolarian Kraken,Creature - Leviathan ,0,
+1967,7,MGU,TBLD Simic Sky Swallower,Creature - Leviathan ,0,1.0
+1966,6,G,TBLD Stag of the Deep Wilds,Creature - Elk ,0,
+1965,2,G,TBLD Hidden Herbalists,Creature - Human Shaman ,0,1.0
+1962,1,B,TBLD Salvage Slasher,Artifact Creature - Human Rogue ,0,
+1961,2,C,TBLD Thanes Consort,Artifact Creature - Phyrexian Advisor ,0,1.0
+1960,5,R,TBLD Plunder,Sorcery,0,1.0
+1959,0,R,TBLD Wheel of Fate,Sorcery,0,
+1958,4,G,TBLD Trumpeting Herd,Sorcery,0,
+1956,1,C,TBLD Grim Progress,Sorcery,0,0.6666666666666666
+1955,1,B,TBLD Altar of Compleation,Artifact ,0,
+1954,2,R,TBLD Emphatic Beat,Enchantment,0,
+1952,6,C,TBLD Callous Oppression,Enchantment,0,0.3333333333333333
+1951,7,C,TBLD Broken Angel,Artifact Creature - Phyrexian Angel ,0,0.15384615384615385
+1949,3,C,TBLD Porcelain Legionnaire,Artifact Creature - Phyrexian Soldier ,0,0.8095238095238095
+1253,5,MRG,TBLD Zhur-Taa Ancient,Creature - Beast ,0,
+2285,6,U,TBLD Echo of Eons,Sorcery,0,
+1251,4,MRG,TBLD Streetbreaker Wurm,Creature - Wurm ,0,
+844,0,MWB,TBLD Shrouded Square,Land,0,
+843,0,MWB,TBLD Funerary Grounds,Land - Plains Swamp ,0,1.0
+100,6,MBG,TBLD Casualties of War,Sorcery,0,
+839,0,MUR,TBLD Volcanic Depths,Land - Island Mountain ,0,1.0
+838,0,MUG,TBLD Elder Pines,Land - Forest Island ,0,1.0
+101,3,MUB,TBLD Mnemonic Betrayal,Sorcery,0,
+835,0,MUG,TBLD Gurgling Mill,Land - Forest Island ,0,1.0
+834,0,MUR,TBLD Unstable Geyser,Land,0,1.0
+99,1,B,TBLD Spoils of the Vault,Flash Sorcery,0,
+102,4,MUB,TBLD Unravel,Flash Sorcery,0,
+832,0,MGUR,TBLD Whispering Grove,Land,0,
+104,2,U,TBLD Mystic Reflection,Flash Sorcery,0,1.0
+105,1,R,TBLD Smelt,Flash Sorcery,0,0.0
+1252,6,MRG,TBLD Rubblehulk,Creature - Elemental ,0,
+828,0,MUR,TBLD Trove of Gemstones,Land,0,
+827,0,MWUBRG,TBLD Coruscating Cityscape,Land,0,1.0
+107,2,MUR,TBLD Epic Experiment,Sorcery,0,
+824,0,C,TBLD Thrumming Core,Land - Station ,0,1.0
+103,5,B,TBLD Sink into Oblivion,Flash Sorcery,0,
+823,0,MBR,TBLD Smokey Badland,Land,0,
+847,0,MBG,TBLD Root Cavity,Land,0,1.0
+98,2,MWU,TBLD E-Commerce,Enchantment,0,
+92,6,W,TBLD Axis of Mortality,Enchantment,0,
+861,0,C,TBLD Dreamworld Portal,Land,0,1.0
+93,6,U,TBLD Willbreakers Sway,Enchantment,0,
+94,2,W,TBLD Blind Obedience,Enchantment,0,0.3333333333333333
+860,0,C,TBLD Burial Chamber,Land,0,1.0
+859,0,C,TBLD Urzas Factory,Land,0,
+858,0,C,TBLD Edge of Vesuva,Land,0,1.0
+857,0,MGU,TBLD Combine Concourse,Land,0,1.0
+848,0,MGW,TBLD Conclave Guardian Grove,Land,0,1.0
+95,5,R,TBLD Devotional Fervor,Enchantment,0,
+856,0,MRW,TBLD Legion Stronghold,Land,0,
+855,0,MUB,TBLD House Agent Alleyway,Land,0,
+97,3,R,TBLD Demonfire Breach,Enchantment,0,
+853,0,MWB,TBLD Syndicate Treasury,Land,0,
+852,0,MRG,TBLD Clan Hunting Grounds,Land,0,1.0
+851,0,MBR,TBLD Cult Revelroom,Land,0,1.0
+850,0,MBG,TBLD Swarm Sluiceway,Land,0,1.0
+849,0,MUR,TBLD League Electro-Reactor,Land,0,1.0
+96,3,W,TBLD Rule of Law,Enchantment,0,
+822,0,MBG,TBLD Moldering Dross,Land,0,
+821,0,MGU,TBLD Thawing Underbrush,Land,0,
+820,0,MRW,TBLD Stoneblock Quarry,Land,0,1.0
+715,0,MWBG,TBLD Sandsteppe Citadel,Land,0,1.0
+714,0,MWG,TBLD Saltcrusted Steppe,Land,0,
+713,0,MUWB,TBLD Moonlit Dunes,Land,0,1.0
+118,2,W,TBLD Paladin of Atonement,Creature - Vampire Knight ,0,
+711,0,MWB,TBLD Royal Vault,Land,0,
+710,0,B,TBLD Rotted Dregs,Land,0,1.0
+709,0,C,TBLD Bustling Port,Land,0,
+708,0,U,TBLD Remote Atoll,Land,0,1.0
+117,2,W,TBLD Famished Paladin,Creature - Vampire Knight ,0,
+707,0,MWR,TBLD Ravine Passage,Land,0,1.0
+705,0,MBR,TBLD Rakdos Carnarium,Land,0,1.0
+704,0,C,TBLD Coral Barrens,Land,0,
+703,0,MWG,TBLD Quiet Space,Land,0,
+702,0,C,TBLD Precarious Mineshaft,Land,0,
+119,3,W,TBLD Inspiring Cleric,Creature - Vampire Cleric ,0,
+701,0,C,TBLD Cracked Wasteland,Land,0,1.0
+700,0,C,TBLD Positronic Tower,Land - Station,0,1.0
+699,0,MUG,TBLD Pondpad Basin,Land,0,
+706,0,C,TBLD Ramshackle Windmill,Land,0,1.0
+716,0,MBRG,TBLD Savage Lands,Land,0,
+116,3,W,TBLD Forerunner of the Legion,Flash Creature - Vampire Knight ,0,
+717,0,MWR,TBLD Scenic Landscape,Land,0,1.0
+819,0,MWB,TBLD Slum Block,Land,0,
+818,0,MGW,TBLD Backwood Cottage,Land,0,
+108,2,MRG,TBLD Savage Twister,Flash Sorcery,0,
+816,0,MUB,TBLD Scuttlebank Straight,Land,0,
+110,1,G,TBLD Snakeskin Veil,Flash Sorcery,0,
+815,0,MWU,TBLD Civic Spires,Land,0,
+814,0,MUR,TBLD Drifting Glacier,Land,0,
+813,0,C,TBLD Tectonic Edge,Land,0,
+730,0,W,TBLD Sunny Meadow,Land,0,
+112,3,B,TBLD Stroke of Midnight,Flash Sorcery,0,
+728,0,MRG,TBLD Majestic Vale,Land,0,
+727,0,MWR,TBLD Sacred Standing Stones,Land - Mountain Plains ,0,1.0
+726,0,MWB,TBLD Spoiled Pasture,Land - Plains Swamp ,0,1.0
+115,4,B,TBLD Diregraf Monstrosity,Creature - Zombie Horror ,0,
+723,0,MUG,TBLD Simic Growth Chamber,Land,0,
+722,0,MWUBRG,TBLD Shimmering Grotto,Land,0,
+720,0,MWG,TBLD Selesnya Sanctuary,Land,0,
+719,0,R,TBLD Seething Crater,Land,0,1.0
+718,0,MGWU,TBLD Seaside Citadel,Land,0,1.0
+863,0,C,TBLD The Archive of Kariro,Legendary Land,0,
+864,0,MWU,TBLD Wanderwine Hub,Land,0,1.0
+865,0,MRW,TBLD Titanfell Heath,Land,0,
+866,0,MBG,TBLD Macabre Statuary,Land,0,
+929,1,B,TBLD Vampire Cutthroat,Creature - Vampire Rogue ,0,
+928,1,B,TBLD Rancid Rats,Creature - Zombie Rat ,0,
+71,1,R,TBLD Crowds Favor,Flash Sorcery,0,1.0
+927,2,B,TBLD Ravenous Rats,Creature - Rat ,0,
+72,1,R,TBLD Dynacharge,Flash Sorcery,0,
+926,2,B,TBLD Bloodcrazed Paladin,Flash Creature - Vampire Knight ,0,
+925,2,B,TBLD Highborn Stalker,Flash Creature - Vampire Noble ,0,1.0
+73,1,R,TBLD Titans Strength,Flash Sorcery,0,
+930,6,B,TBLD Defiant Bloodlord,Flash Creature - Vampire ,0,
+923,4,B,TBLD Queens Envoy,Creature - Vampire Scout ,0,0.0
+921,2,B,TBLD Stromkirk Condemned,Creature - Vampire Horror ,0,1.0
+920,1,B,TBLD Indulgent Aristocrat,Creature - Vampire Noble ,0,1.0
+919,1,B,TBLD Vicious Conquistador,Creature - Vampire Soldier ,0,1.0
+918,1,B,TBLD Vampire of the Dire Moon,Creature - Vampire ,0,1.0
+74,2,R,TBLD Crushing Assault,Flash Sorcery,0,
+917,1,B,TBLD Nameless Agent,Creature - Human Rogue ,0,
+916,1,B,TBLD Handmaiden of Vraska,Creature - Gorgon Rogue ,0,
+76,3,B,TBLD Midnight Errand,Sorcery,0,1.0
+922,2,MWB,TBLD Tithe Drinker,Creature - Vampire Noble ,0,
+931,5,B,TBLD Marshland Bloodcaster,Creature - Vampire Wizard ,0,
+932,5,MWB,TBLD Vona Butcher of Magan,Legendary Creature - Vampire Knight ,0,
+70,1,U,TBLD Artful Dodge,Sorcery,0,1.0
+951,2,G,TBLD Root Out,Sorcery,0,0.0
+950,2,B,TBLD Wishclaw Talisman,Artifact,0,1.0
+949,2,G,TBLD Deeproot Champion,Creature - Merfolk Shaman ,0,
+948,2,G,TBLD Deeproot Guerrilla,Creature - Merfolk Warrior ,0,
+67,3,G,TBLD Fallow Earth,Flash Sorcery,0,1.0
+946,1,W,TBLD Practiced Embalmer,Creature - Zombie Cleric ,0,
+945,1,B,TBLD Seagraf Skallywag,Creature - Zombie Rogue ,0,1.0
+944,2,B,TBLD Orzhov Enforcer,Creature - Human Rogue ,0,
+943,3,U,TBLD Master Thief,Creature - Human Rogue ,0,0.0
+68,1,G,TBLD Enter the Unknown,Sorcery,0,1.0
+941,4,B,TBLD Evernight Shade,Creature - Spirit ,0,1.0
+940,2,W,TBLD Magus of the Dawn,Creature - Human Cleric Wizard ,0,
+69,1,W,TBLD Pump it Up,Sorcery,0,
+938,2,R,TBLD Drannith Stinger,Creature - Human Wizard ,0,
+937,2,MRW,TBLD Savai Thundermane,Creature - Elemental Cat ,0,
+936,1,W,TBLD Flourishing Fox,Creature - Fox ,0,
+935,2,B,TBLD Nullpriest of Oblivion,Creature - Vampire Cleric ,0,1.0
+934,3,B,TBLD Marauding Blight-Priest,Creature - Vampire Cleric ,0,
+933,2,B,TBLD Magnanimous Count,Creature - Vampire Noble ,0,
+186,5,B,TBLD Caustic Tar,Enchantment - Aura ,0,
+618,0,MUB,TBLD Porous Aquifer,Land,0,
+913,2,MGU,TBLD Neoform,Sorcery,0,
+911,1,B,TBLD Gnarled Scarhide,Enchantment Creature - Minotaur ,0,
+884,5,MRW,TBLD Swathcutter Giant,Creature - Giant Soldier ,0,1.0
+883,5,C,TBLD Magus of Paradox,Artifact Creature - Golem Wizard ,0,0.0
+882,2,MRW,TBLD Breakbot,Artifact Creature - Construct ,0,1.0
+91,2,W,TBLD Barren Glory,Enchantment,0,1.0
+880,0,C,TBLD Dustrier,Land Creature - Desert Horse ,0,
+879,0,C,TBLD Eldrazi Temple,Land,0,
+878,0,G,TBLD Haunted Woodland,Land,0,
+877,0,R,TBLD Haunted Cave,Land,0,1.0
+90,2,W,TBLD Pilgrims Ward,Enchantment,0,0.0
+876,0,B,TBLD Haunted Tomb,Land,0,1.0
+874,0,W,TBLD Haunted Veldt,Land,0,
+873,0,U,TBLD Frothy Surf,Land,0,1.0
+872,0,W,TBLD Prairie Lodge,Land,0,
+871,0,B,TBLD Eerie Bog,Land,0,1.0
+870,0,R,TBLD Rugged Peaks,Land,0,1.0
+869,0,G,TBLD Autumn Glade,Land,0,
+868,0,MBR,TBLD Aunties Hovel,Land,0,
+867,0,MWU,TBLD Mist-Cloaked Moor,Land,0,
+875,0,U,TBLD Haunted Lake,Land,0,
+89,3,W,TBLD Ghostly Prison,Enchantment,0,
+886,1,B,TBLD Scheming Symmetry,Sorcery,0,1.0
+887,5,B,TBLD Cruel Entertainment,Sorcery,0,
+910,2,B,TBLD Nyxborn Slayer,Enchantment Creature - Minotaur ,0,1.0
+909,2,R,TBLD Rolling Thunder,Sorcery,0,
+79,1,B,TBLD Taste of Blood,Sorcery,0,
+907,4,B,TBLD Dead Revels,Sorcery,0,
+906,2,C,TBLD Subvert,Sorcery,0,0.25806451612903225
+80,2,B,TBLD Dream Rupture,Sorcery,0,
+904,3,B,TBLD Forced March,Sorcery,0,
+81,4,G,TBLD Dubious Challenge,Sorcery,0,
+83,6,MBG,TBLD Deadbridge Chant,Enchantment,0,
+900,7,B,TBLD Desecrate,Sorcery,0,0.0
+898,5,U,TBLD Scornful Rejection,Flash Sorcery,0,0.0
+897,4,B,TBLD Lampads Touch,Sorcery,0,0.0
+896,2,MWU,TBLD Dramatic Rescue,Flash Sorcery,0,
+895,6,MUB,TBLD Brain Drain,Flash Sorcery,0,
+893,2,B,TBLD Invasive Therapy,Sorcery,0,0.3333333333333333
+84,3,W,TBLD Martial Law,Enchantment,0,
+890,1,G,TBLD Worldly Tutor,Flash Sorcery,0,1.0
+87,2,U,TBLD Stasis,Enchantment,0,1.0
+88,5,U,TBLD Dream Halls,Enchantment,0,
+78,4,B,TBLD Memoricide,Sorcery,0,
+952,5,U,TBLD Scholarly Tutor,Sorcery,0,1.0
+120,3,R,TBLD Markov Blademaster,Creature - Vampire Warrior ,0,
+616,0,C,TBLD Phyrexian Factory,Artifact Land,0,1.0
+265,6,G,TBLD Feed the Pack,Enchantment,0,
+264,4,B,TBLD Raiders Spoils,Enchantment,0,
+175,3,W,TBLD Solemn Offering,Sorcery,0,
+262,7,G,TBLD Colossification,Enchantment - Aura ,0,
+260,1,B,TBLD Mandatory Upgrades,Enchantment - Aura ,0,
+259,2,W,TBLD Binding Sanction,Enchantment,0,1.0
+176,5,R,TBLD Hour of Devastation,Sorcery,0,
+177,2,MWB,TBLD Despark,Flash Sorcery,0,
+266,2,W,TBLD Runed Halo,Enchantment,0,
+256,4,W,TBLD Timely Hordemate,Creature - Human Warrior ,0,
+254,5,R,TBLD Skarrgan Firebird,Creature - Elemental Bird ,0,1.0
+253,4,R,TBLD Bolrac-Clan Wrecker,Creature - Giant Warrior ,0,1.0
+252,2,R,TBLD Raging Redcap,Creature - Goblin Knight ,0,
+251,2,R,TBLD Skinbrand Goblin,Creature - Goblin Warrior ,0,1.0
+249,3,R,TBLD Fire Urchin,Creature - Elemental ,0,
+248,7,HUR,TBLD Djinn Illuminatus,Creature - Djinn ,0,
+247,2,B,TBLD Piper of the Swarm,Creature - Human Shaman ,0,
+245,3,G,TBLD Slaughterhorn,Creature - Beast ,0,1.0
+255,3,R,TBLD Viashino Fangtail,Creature - Lizard Warrior ,0,
+243,5,MBG,TBLD Sporiagoyf,Creature - Lhurgoyf ,0,
+268,6,W,TBLD Catastrophe,Sorcery,0,
+270,2,W,TBLD Dawn to Dusk,Sorcery,0,
+288,3,R,TBLD Rift Bolt,Sorcery,0,1.0
+287,6,B,TBLD Terminal Event,Sorcery,0,
+285,7,B,TBLD Wits End,Sorcery,0,
+284,3,R,TBLD Wheel of Destiny,Sorcery,0,
+283,2,G,TBLD Summer Bloom,Sorcery,0,
+169,2,MGW,TBLD Song of the Dryads,Enchantment - Aura ,0,
+170,2,W,TBLD Spectral Steel,Enchantment - Aura ,0,
+171,2,U,TBLD Hunters Mark,Enchantment - Aura Curse ,0,
+269,2,W,TBLD Idyllic Tutor,Sorcery,0,0.8235294117647058
+172,2,G,TBLD Seacoast Caretaker,Creature - Merfolk Shaman ,0,1.0
+278,1,W,TBLD Sacred Cat,Creature - Cat ,0,
+277,2,W,TBLD Treaty,Flash Sorcery,0,1.0
+276,3,W,TBLD Sudden Banishment,Flash Sorcery,0,
+275,2,W,TBLD Squadron Hawk,Creature - Bird ,0,
+174,1,W,TBLD Nyxborn Shieldmate,Enchantment Creature - Human Soldier ,0,1.0
+273,3,MGU,TBLD Re-Spec,Flash Sorcery,0,
+272,1,MWU,TBLD Feeling of Dread,Flash Sorcery,0,
+271,3,W,TBLD Forsake the Worldly,Flash Sorcery,0,0.0
+279,1,W,TBLD Viziers Honor Guard,Creature - Human Warrior ,0,1.0
+179,4,U,TBLD Devious Cover-Up,Flash Sorcery,0,
+240,6,G,TBLD Skarrg Goliath,Creature - Beast ,0,
+239,6,G,TBLD Brutalizer Exarch,Creature - Phyrexian ,0,0.0
+209,1,U,TBLD Psychic Surgery,Enchantment,0,0.7272727272727273
+208,2,R,TBLD Dueling Zone,Enchantment,0,1.0
+206,1,B,TBLD Bankrupt in Blood,Sorcery,0,0.6
+183,2,W,TBLD Gift of Immortality,Enchantment - Aura ,0,0.6666666666666666
+205,8,B,TBLD Army of the Damned,Sorcery,0,1.0
+204,1,W,TBLD Unwelcome Visitation,Sorcery,0,0.0
+184,4,W,TBLD Curse of Tithes,Enchantment - Aura Curse ,0,
+203,2,U,TBLD Radical Idea,Flash Sorcery,0,1.0
+210,5,W,TBLD Standardize,Sorcery,0,0.0
+201,1,W,TBLD Wake the Reflections,Sorcery,0,1.0
+197,6,W,TBLD Planar Cleansing,Sorcery,0,0.0
+195,2,W,TBLD Charming Prince,Creature - Human Noble ,0,
+194,2,W,TBLD Remorseful Cleric,Creature - Spirit Cleric ,0,0.5
+193,2,W,TBLD Tocatli Honor Guard,Creature - Human Soldier ,0,
+192,3,W,TBLD Magus of Silent Stone,Creature - Dwarf Wizard ,0,0.0
+191,3,W,TBLD Fiend Hunter,Creature - Human Cleric ,0,1.0
+190,2,R,TBLD Harsh Mentor,Creature - Human Cleric ,0,0.0
+189,2,B,TBLD Qarsi Sadist,Creature - Human Cleric ,0,
+199,8,B,TBLD Brutal Suppression,Sorcery,0,1.0
+211,4,U,TBLD Welcome to the Fold,Sorcery,0,0.0
+212,5,R,TBLD Public Outburst,Sorcery,0,0.6666666666666666
+213,3,R,TBLD Gravitic Punch,Sorcery,0,
+238,4,B,TBLD Entomber Exarch,Creature - Phyrexian ,0,
+237,2,W,TBLD Annointer Exarch,Flash Creature - Phyrexian ,0,
+236,3,U,TBLD Deceiver Exarch,Flash Creature - Phyrexian ,0,
+235,6,U,TBLD Surtland Elementalist,Creature - Giant Elementalist ,0,
+234,2,W,TBLD Lucky Tomcat,Creature - Cat ,0,1.0
+233,1,W,TBLD Volatile Simulacrum,Artifact Creature - Homunculus ,0,
+231,3,MRW,TBLD Mythic Thunderbird,Creature - Elemental Bird ,0,
+229,5,R,TBLD Surtland Flinger,Creature - Giant Berserker ,0,
+228,5,B,TBLD Cleaving Reaper,Creature - Angel Berserker ,0,
+227,2,W,TBLD Youthful Valkyrie,Creature - Angel ,0,
+226,6,W,TBLD Wispweaver Angel,Creature - Angel ,0,1.0
+225,5,U,TBLD Beguiler of Wills,Creature - Human Wizard ,0,
+222,5,W,TBLD Battlegrace Angel,Creature - Angel ,0,
+221,2,W,TBLD Mindnet Sentinel,Creature - Angel ,0,0.26666666666666666
+220,6,W,TBLD Armistice Angel,Flash Creature - Angel ,0,0.2
+218,2,MWB,TBLD Disinter,Sorcery,0,1.0
+217,2,MGW,TBLD Eladamris Call,Flash Sorcery,0,1.0
+215,1,W,TBLD Doomed Traveler,Creature - Human Soldier ,0,0.0
+214,3,W,TBLD Embodiment of Valor,Creature - Avatar ,0,
+290,4,R,TBLD Ruthless Impact,Sorcery,0,0.0
+291,0,C,TBLD Aetheric Generator,Land - Station ,0,1.0
+166,2,G,TBLD Scout the Terrain,Sorcery,0,
+164,2,R,TBLD Twinflame,Sorcery,0,
+130,2,W,TBLD Martyr of Dusk,Creature - Vampire Soldier ,0,
+515,0,MUR,TBLD Izzet Boilerworks,Land,0,1.0
+131,2,U,TBLD Triskaidekaphile,Creature - Human Wizard ,0,
+132,1,B,TBLD Serrated Scorpion,Creature - Scorpion ,0,1.0
+432,0,MRG,TBLD Gruul Turf,Land,0,
+431,0,MWUBRG,TBLD Imperial Coliseum,Land,0,1.0
+134,5,W,TBLD Armament Angel,Creature - Angel // Sorcery - Adventure ,0,1.0
+428,0,C,TBLD Root of Origin,Land,0,1.0
+516,0,MRGW,TBLD Jungle Shrine,Land,0,
+427,0,MWG,TBLD Garden Path,Land,0,1.0
+425,0,MGUR,TBLD Frontier Bivouac,Land,0,
+137,2,W,TBLD Shepherd of the Flock,Creature - Human Scout // Flash Sorcery - Adventure ,0,
+343,0,C,TBLD Field of Ruin,Land,0,1.0
+342,0,MUG,TBLD Exotic Habitat,Land,0,1.0
+138,3,R,TBLD Merchant of the Vale,Creature - Human Peasant // Flash Sorcery - Adventure ,0,
+139,1,B,TBLD Blightsqueaker,Creature - Rat Shaman // Flash Sorcery - Adventure ,0,
+338,0,MUB,TBLD Dimir Aqueduct,Land,0,
+337,0,MWGU,TBLD Dewy Bramble,Land,0,
+426,0,MRG,TBLD Fungal Reaches,Land,0,
+517,0,C,TBLD Mage-Ring Network,Land,0,
+518,0,MBR,TBLD Magma Sink,Land,0,1.0
+519,0,MRG,TBLD Primitive Den,Land - Mountain Forest ,0,1.0
+121,3,B,TBLD Markov Dreadknight,Creature - Vampire Knight ,0,
+122,4,B,TBLD Sanctum Seeker,Creature - Vampire Knight ,0,1.0
+615,0,C,TBLD Petrified Field,Land,0,
+123,4,W,TBLD Bishop of Rebirth,Creature - Vampire Cleric ,0,
+124,5,B,TBLD Champion of Dusk,Creature - Vampire Knight ,0,1.0
+125,4,R,TBLD Falkenrath Marauders,Creature - Vampire Warrior ,0,
+126,2,B,TBLD Oathsworn Vampire,Creature - Vampire Knight ,0,1.0
+612,0,MWB,TBLD Orzhov Basilica,Land,0,
+610,0,MRWB,TBLD Nomad Outpost,Land,0,1.0
+127,2,U,TBLD Blightwater Ferryman,Creature - Zombie Rogue ,0,
+608,0,MBG,TBLD Mucky Clutch,Land,0,
+527,0,G,TBLD Mossy Dell,Land,0,1.0
+526,0,MBR,TBLD Molten Slagheap,Land,0,1.0
+128,2,B,TBLD Rotting Butcher,Creature - Zombie ,0,
+524,0,MUR,TBLD Oceanic Trench,Land,0,1.0
+129,4,B,TBLD Scion of the Swarm,Creature - Vampire Cleric ,0,
+522,0,C,TBLD Mirrorway,Enchantment Land,0,
+521,0,MWUBRG,TBLD Mana Confluence,Land,0,1.0
+520,0,MRG,TBLD Timeworn Valley,Land,0,1.0
+140,2,B,TBLD Inkfathom Angler,Creature - Merfolk // Sorcery - Adventure ,0,0.5
+617,0,MBGU,TBLD Luminescent Stand,Land,0,
+141,2,U,TBLD Seasong Muse,Flash Creature - Merfolk Wizard // Flash Sorcery - Adventure ,0,
+335,0,MBR,TBLD Deserted Fairground,Land,0,1.0
+308,0,MWBG,TBLD Parched Brushland,Land,0,
+155,3,MGU,TBLD Music_Muzzle,Flash Sorcery // Flash Sorcery,0,1.0
+157,4,MUR,TBLD Trounce_Trace,Flash Sorcery // Flash Sorcery,0,1.0
+306,0,MWR,TBLD Boros Garrison,Land,0,1.0
+305,0,MBR,TBLD Bloods-Soaked Dungeon,Land - Swamp Mountain ,0,1.0
+304,0,MBR,TBLD Ashen Stronghold,Land,0,1.0
+303,0,MWU,TBLD Blessed Fountain,Land - Plains Island ,0,1.0
+302,0,MWR,TBLD Besieged Battlements,Land,0,1.0
+309,0,C,TBLD Buried Ruin,Land,0,0.0
+301,0,MRWB,TBLD Wartorn Field,Land,0,1.0
+299,0,C,TBLD Eremite Shelter,Land,0,0.8
+298,0,MWUB,TBLD Arcane Sanctum,Land,0,1.0
+296,0,MWG,TBLD Empty Hamlet,Land,0,
+158,4,MRU,TBLD Fire_Ice,Flash Sorcery // Flash Sorcery,0,
+294,0,MGRW,TBLD Savanna Mesa,Land,0,
+159,4,MRW,TBLD Procure_Preserve,Flash Sorcery // Flash Sorcery,0,
+160,8,MGU,TBLD Bounty_Barren,Sorcery // Sorcery,0,
+163,1,G,TBLD Natural State,Flash Sorcery,0,0.0
+300,0,MWU,TBLD Azorius Chancery,Land,0,1.0
+310,0,C,TBLD Drownyard Temple,Land,0,
+311,0,MWU,TBLD Calciform Pools,Land,0,
+154,6,MBG,TBLD Down_Dirty,Sorcery // Sorcery,0,
+143,9,MBU,TBLD Retire_Restart,Sorcery // Sorcery,0,1.0
+144,5,MBG,TBLD Clubs_Spades,Flash Sorcery // Sorcery,0,
+331,0,C,TBLD Darksteel Citadel,Artifact Land,0,1.0
+330,0,C,TBLD Crystal Vein,Land,0,1.0
+329,0,MWUBRG,TBLD Crystal Garden,Land,0,
+145,4,MWB,TBLD Instruct_Ignore,Sorcery // Sorcery,0,0.0
+146,5,MGW,TBLD Unity_Strength,Flash Sorcery // Flash Sorcery,0,1.0
+326,0,MBG,TBLD Hermit Shack,Land,0,1.0
+147,6,MGW,TBLD Flower_Flourish,Sorcery // Sorcery,0,
+323,0,MWR,TBLD Consecrated Armory,Land,0,
+149,5,MUR,TBLD Invert_Exchange,Flash Sorcery // Sorcery,0,
+318,0,MURW,TBLD Coastal Keep,Land,0,
+317,0,MWUBRG,TBLD Clockwork Portal,Artifact Land,0,1.0
+316,0,MWR,TBLD Classy Theater,Land,0,1.0
+150,8,MBG,TBLD Find_Finality,Sorcery // Sorcery,0,0.8
+315,0,MWR,TBLD Daunting Precipice,Land - Mountain Plains ,0,1.0
+152,3,MRG,TBLD Might_Magic,Sorcery // Flash Sorcery,0,1.0
+313,0,MRBG,TBLD Jungle Tar Pit,Land,0,
+153,5,MGU,TBLD Give_Take,Sorcery // Sorcery,0,
+142,1,B,TBLD Touch of the Horned God,Flash Sorcery,0,1.0
+953,1,B,TBLD Cynical Tutor,Sorcery,0,1.0
+914,2,R,TBLD Go for Blood,Sorcery,0,
+955,2,R,TBLD Ash Zealot,Creature - Human Warrior ,0,0.0
+1141,1,G,TBLD Coldwater Paladin,Creature - Merfolk Knight ,0,
+1140,3,U,TBLD Atlantean Reejery,Creature - Merfolk Knight ,0,1.0
+1139,2,B,TBLD Sawtooth Wanderer,Creature - Merfolk Warrior ,0,
+1138,2,MGU,TBLD Merfolk Mistbinder,Creature - Merfolk Shaman ,0,1.0
+1137,3,U,TBLD Watertrap Weaver,Flash Creature - Merfolk Wizard ,0,1.0
+1136,2,U,TBLD Scroll Thief,Creature - Merfolk Wizard ,0,
+15,1,W,TBLD Elite Arrester,Creature - Human Soldier ,0,
+1135,2,MWU,TBLD Whirlportal Mage,Flash Creature - Merfolk Wizard ,0,
+1134,2,MWU,TBLD Triton Meddler,Creature - Merfolk Wizard ,0,1.0
+16,2,W,TBLD Leonin Arbiter,Creature - Cat Cleric ,0,
+1133,1,WUH,TBLD Zealous Guardian,Flash Creature - Kithkin Soldier ,0,
+17,3,W,TBLD Auratouched Vagabond,Creature - Cat Cleric Rogue ,0,
+1131,2,MUB,TBLD Agony Warp,Flash Sorcery,0,
+1130,1,U,TBLD Mana Severance,Sorcery,0,1.0
+18,1,G,TBLD Woopip Scrounger,Creature - Fungus ,0,1.0
+19,2,G,TBLD Snapjaw Polyp,Creature - Fungus ,0,
+1128,2,U,TBLD Wash Ashore,Sorcery,0,1.0
+1142,2,U,TBLD Merrow Wayfinder,Creature - Merfolk Scout ,0,1.0
+1143,2,MUB,TBLD Ramari Hunt Captain,Creature - Merfolk Scout ,0,
+1144,2,MUB,TBLD Roughscale Poacher,Creature - Merfolk Warrior ,0,
+1145,1,B,TBLD Ramari Thug,Creature - Merfolk Warrior ,0,
+1162,6,B,TBLD Havoc Demon,Creature - Demon ,0,
+1161,2,B,TBLD Pernicious One,Creature - Demon ,0,
+12,2,W,TBLD Sun-Blessed Veteran,Creature - Human Soldier ,0,
+13,4,MWU,TBLD Ascended Lawmage,Creature - Vedalken Wizard ,0,0.0
+1160,3,W,TBLD Priest of Ancient Lore,Creature - Dwarf Cleric ,0,
+1159,6,B,TBLD Archdemon of Murmers,Creature - Demon ,0,
+1158,5,B,TBLD Bloodgift Demon,Creature - Demon ,0,
+1157,3,MBR,TBLD Rafter Demon,Creature - Demon ,0,
+20,1,B,TBLD Carrion Feeder,Creature - Zombie ,0,1.0
+1156,7,B,TBLD Greater Pit Fiend,Creature - Demon ,0,
+1154,2,R,TBLD Boisterous Cohort,Creature - Goblin Warrior ,0,
+1153,1,R,TBLD Skirk Prospector,Creature - Goblin Soldier ,0,
+1152,2,MRG,TBLD Zhur-Taa Goblin,Creature - Goblin Berserker ,0,1.0
+1151,2,R,TBLD Skew,Flash Sorcery,0,1.0
+1150,4,B,TBLD Turf Killing,Flash Sorcery,0,
+1149,2,U,TBLD Braingeyser,Sorcery,0,1.0
+1148,2,G,TBLD Feed the Clan,Flash Sorcery,0,
+1147,1,G,TBLD Fortifying Draught,Flash Sorcery,0,
+1155,2,R,TBLD Greenskin Charger,Creature - Goblin Warrior ,0,
+1126,1,U,TBLD Peek,Flash Sorcery,0,1.0
+1125,6,U,TBLD Ancestral Whispers,Sorcery,0,
+1124,4,W,TBLD Unblinking Occulo,Enchantment Creature - Elemental ,0,
+1098,1,U,TBLD Shriekgeist,Creature - Spirit ,0,
+1097,3,U,TBLD Stormbound Geist,Creature - Spirit ,0,1.0
+1096,6,W,TBLD Hour of Reckoning,Sorcery,0,
+1095,1,U,TBLD Unsummon,Flash Sorcery,0,
+1094,1,U,TBLD Hard Evidence,Sorcery,0,1.0
+1093,1,U,TBLD Void Snare,Sorcery,0,0.0
+1091,2,HWU,TBLD Premonition,Flash Sorcery,0,0.6363636363636364
+1090,5,U,TBLD Precognitive Perception,Flash Sorcery,0,
+1099,2,G,TBLD Wall of Blossoms,Creature - Plant Wall ,0,
+1089,1,U,TBLD Illusion of Choice,Flash Sorcery,0,
+1087,6,MGW,TBLD Collective Blessing,Enchantment,0,
+1085,3,U,TBLD Memory Erosion,Enchantment,0,
+1084,7,U,TBLD Exciting Opportunity,Flash Sorcery,0,
+1083,4,U,TBLD Hieroglyphic Illumination,Flash Sorcery,0,
+1082,3,U,TBLD Capsize,Flash Sorcery,0,
+1080,7,B,TBLD Eldritch Knowledge,Flash Sorcery,0,1.0
+1079,4,W,TBLD Sphere of Order,Enchantment,0,0.0
+1078,6,U,TBLD Cast Through Time,Enchantment,0,
+1088,1,U,TBLD Opt,Flash Sorcery,0,1.0
+1163,4,MRWB,TBLD Butcher of the Horde,Creature - Demon ,0,
+1100,6,U,TBLD Tall Tales,Flash Sorcery,0,
+1104,2,U,TBLD Palace Familiar,Flash Creature - Bird ,0,
+1123,4,G,TBLD Eidolon of Blossoms,Enchantment Creature - Spirit ,0,0.5
+1122,1,HUR,TBLD Wistful Eidolon,Enchantment Creature - Spirit ,0,1.0
+1121,5,U,TBLD Mulldrifter,Enchantment Creature - Elemental ,0,0.8518518518518519
+1120,4,U,TBLD Weave Fate,Flash Sorcery,0,
+1119,3,U,TBLD Sailor of Means,Creature - Human Rogue ,0,
+1118,3,U,TBLD Forbidden Alchemy,Flash Sorcery,0,
+954,2,B,TBLD Online Tutor,Sorcery,0,
+1114,3,MBR,TBLD Blightning,Sorcery,0,
+1102,2,U,TBLD Cyclonic Rift,Flash Sorcery,0,0.3333333333333333
+21,1,B,TBLD Stitchers Lackey,Creature - Homunculus ,0,
+1113,2,R,TBLD Multicast,Sorcery,0,1.0
+1112,2,U,TBLD Nyxborn Triton,Enchantment Creature - Merfolk ,0,
+1111,4,U,TBLD River Mimeole,Flash Enchantment Creature - Elemental ,0,0.7777777777777778
+1110,6,U,TBLD Squall Nimbulus,Flash Enchantment Creature - Elemental ,0,1.0
+1109,6,G,TBLD Nyleas Colossus,Enchantment Creature - Giant ,0,0.6666666666666666
+1108,7,U,TBLD Timedrifter,Flash Enchantment Creature - Elemental ,0,
+1106,4,U,TBLD Slipwhorl,Enchantment Creature - Elemental ,0,0.625
+1105,2,U,TBLD Strategic Planning,Sorcery,0,
+22,2,B,TBLD Blood Scrivener,Creature - Zombie Wizard ,0,1.0
+1164,3,R,TBLD Mardu Heart-Piercer,Creature - Human Warrior ,0,
+1165,4,W,TBLD Ojutai Exemplars,Creature - Human Monk ,0,
+1166,4,B,TBLD Vainglorious Redeemer,Creature - Angel Cleric ,0,
+1227,2,HWU,TBLD Court Guildmage,Creature - Human Wizard ,0,
+1226,2,HUR,TBLD Laboratory Guildmage,Creature - Goblin Wizard ,0,
+1225,2,HRG,TBLD Turf Guildmage,Creature - Human Shaman ,0,
+1224,2,HGW,TBLD Sanctuary Guildmage,Creature - Elf Shaman ,0,0.0
+1223,3,MGW,TBLD Seed Mystic,Creature - Elf Shaman ,0,1.0
+1222,7,U,TBLD Alrunds Epiphany,Sorcery,0,1.0
+1221,6,MUR,TBLD Thoughtflare,Flash Sorcery,0,
+5,2,B,TBLD Look Upon the Dark,Flash Sorcery,0,1.0
+1228,2,HGU,TBLD Splicer Guildmage,Creature - Human Wizard ,0,
+1219,4,W,TBLD Cosmic Intervention,Flash Sorcery,0,
+1217,2,U,TBLD Domineer,Enchantment - Aura ,0,
+1216,4,R,TBLD Experimental Frenzy,Enchantment,0,0.0
+1215,6,MUR,TBLD Thousand-Year Storm,Enchantment,0,
+1214,2,MUR,TBLD Fireminds Research,Enchantment,0,1.0
+1213,3,W,TBLD Solitary Confinement,Enchantment,0,1.0
+1212,4,MGW,TBLD Glare of Subdual,Enchantment,0,
+1211,1,B,TBLD Illness in the Ranks,Enchantment,0,
+1210,1,B,TBLD Shrieking Affliction,Enchantment,0,
+1218,4,G,TBLD Explosive Vegetation,Flash Sorcery,0,
+1209,2,G,TBLD Sylvan Scrying,Flash Sorcery,0,
+1229,2,HWB,TBLD Basilica Guildmage,Creature - Human Cleric ,0,1.0
+1231,2,HBG,TBLD Undercity Guildmage,Creature - Elf Shaman ,0,
+1250,3,MBG,TBLD Dreg Mangler,Creature - Plant Zombie ,0,
+1249,3,MBG,TBLD Ochran Assassin,Creature - Elf Rogue ,0,
+1248,2,HBG,TBLD Pitiless Gorgon,Creature - Gorgon  ,0,
+1247,2,MBR,TBLD Spike Jester,Creature - Goblin Warrior ,0,
+1245,2,MRG,TBLD Ghor-Clan Gatecrasher,Creature - Minotaur Berserker ,0,1.0
+1,0,MWUBRG,TBLD Power Plant,Land,0,
+1244,1,G,TBLD Rhudai Pathfinder,Creature - Goat Scout ,0,
+1243,4,MRG,TBLD Ghor-Clan Rampager,Creature - Beast ,0,1.0
+1230,2,HRW,TBLD Garrison Guildmage,Creature - Human Wizard ,0,
+1242,3,MUR,TBLD Nivix Cyclops,Creature - Giant ,0,1.0
+1240,3,MUR,TBLD Gelectrode,Flash Creature - Elemental ,0,
+1239,3,MRG,TBLD Rubblebelt Rioters,Creature - Human Berserker ,0,
+1238,3,MRG,TBLD Rubblebelt Runner,Creature - Lizard Warrior ,0,1.0
+1236,5,G,TBLD Wavelength Synchronizer,Creature - Elemental Cleric ,0,
+4,4,W,TBLD Battle Screech,Sorcery,0,
+1234,2,MRG,TBLD Scab-Clan Mauler,Creature - Human Berserker ,0,1.0
+1233,2,HUB,TBLD Shadow Guildmage,Creature - Human Wizard ,0,
+1232,2,HBR,TBLD Carnarium Guildmage,Creature - Human Wizard ,0,
+1241,5,MUR,TBLD Hypersonic Dragon,Creature - Dragon ,0,
+28,3,B,TBLD Sightless Ghoul,Creature - Zombie Soldier ,0,1.0
+1208,1,W,TBLD Pressure Point,Flash Sorcery,0,0.0
+1206,2,G,TBLD Setessan Oathsworn,Creature - Satyr Soldier ,0,
+1184,8,C,TBLD Ulamogs Crusher,Creature - Eldrazi ,0,1.0
+1183,10,C,TBLD Desolation Twin,Creature - Eldrazi ,0,
+1182,3,R,TBLD Hordeling Outburst,Sorcery,0,
+1181,9,B,TBLD Infernal Feast,Sorcery,0,
+1180,6,C,TBLD Skittering Invasion,Sorcery,0,
+1179,2,R,TBLD Furnace Fodder,Sorcery,0,
+1178,2,R,TBLD Krenkos Command,Sorcery,0,
+10,2,G,TBLD Vastwood Awakening,Flash Sorcery,0,1.0
+1185,6,C,TBLD Deathless Behemoth,Creature - Eldrazi ,0,
+1176,3,B,TBLD Marching Returned,Sorcery,0,1.0
+1174,1,B,TBLD Rabid Frenzy,Sorcery,0,
+1173,2,U,TBLD Muddle the Mixture,Flash Sorcery,0,
+1172,3,U,TBLD Grasp of the Undercity,Sorcery,0,
+1171,4,U,TBLD Wheeling Whispers,Sorcery,0,
+1170,5,U,TBLD Dregwater Tempest,Flash Sorcery,0,
+1169,6,U,TBLD Stolen Time,Sorcery,0,1.0
+1168,1,G,TBLD Gelatinous Genesis,Sorcery,0,
+11,1,W,TBLD Marisis Lookout,Creature - Cat Scout ,0,1.0
+1175,4,W,TBLD Retether,Sorcery,0,
+1207,2,G,TBLD Satyr Wayfinder,Creature - Satyr Scout ,0,
+9,4,U,TBLD Endless Possibilities,Sorcery,0,
+1187,5,C,TBLD Emrakuls Birther,Creature - Eldrazi ,0,1.0
+1205,3,G,TBLD Cultivate,Sorcery,0,
+1203,3,U,TBLD Flux Channeler,Creature - Human Wizard ,0,
+6,5,R,TBLD Pyrotechnics,Flash Sorcery,0,
+1202,4,U,TBLD Mass Manipulation,Sorcery,0,
+1201,3,U,TBLD Quasiduplicate,Sorcery,0,
+1200,3,MUR,TBLD Stitch in Time,Flash Sorcery,0,
+1199,2,MUR,TBLD Teleportal,Sorcery,0,
+1198,2,G,TBLD Explore,Sorcery,0,
+1186,9,C,TBLD Hound of Ulamog,Creature - Eldrazi ,0,0.6666666666666666
+1197,2,G,TBLD Urban Planning,Sorcery,0,1.0
+7,7,W,TBLD Profound Journey,Sorcery,0,
+1195,3,R,TBLD Hijack,Sorcery,0,
+1194,1,R,TBLD Pyrodominate,Flash Sorcery,0,0.21052631578947367
+1193,5,R,TBLD Combust,Flash Sorcery,0,0.0
+1192,4,R,TBLD Mindless Bloodlust,Sorcery,0,0.0
+1191,4,C,TBLD Titanfall,Sorcery,0,1.0
+1190,10,C,TBLD Ulamog the Insatiable,Legendary Creature - Eldrazi ,0,1.0
+8,8,B,TBLD Dead Drop,Sorcery,0,
+1196,2,R,TBLD Arson,Sorcery,0,0.0
+30,1,B,TBLD Festering Goblin,Creature - Zombie Goblin ,0,
+1115,4,MBR,TBLD Stickup,Sorcery,0,0.0
+187,3,W,TBLD Mausoleum Guard,Creature - Human Scout ,0,
+47,5,B,TBLD Priest of the Blood Rite,Creature - Human Cleric ,0,
+1003,2,B,TBLD Whisper Blood Liturgist,Legendary Creature - Human Cleric ,0,
+46,2,B,TBLD Skirsdag High Priest,Creature - Human Cleric ,0,
+1040,4,U,TBLD Scatter Arc,Flash Sorcery,0,
+1002,3,W,TBLD Nearheath Chaplain,Creature - Human Cleric ,0,
+1000,2,HWU,TBLD Koheino Chronicler,Creature - Human Shaman ,0,1.0
+56,2,B,TBLD Darkened Learner,Creature - Elemental Horror ,0,
+999,2,W,TBLD Gym Leader,Creature - Human ,0,1.0
+998,6,W,TBLD Sunset Herald,Flash Creature - Dragon ,0,1.0
+997,4,MBG,TBLD Queen of the Hive,Creature - Insect ,0,1.0
+1041,2,B,TBLD Banish to the Shadows,Flash Sorcery,0,0.0
+995,5,MUB,TBLD Ghastly Spirit,Creature - Spirit ,0,
+58,9,MBG,TBLD Mortiloth,Creature - Elemental ,0,1.0
+993,4,G,TBLD Mighty Beetle,Creature - Insect ,0,
+1042,2,U,TBLD Logic Knot,Flash Sorcery,0,
+992,2,B,TBLD Patient Cocoon,Creature - Insect ,0,
+1043,2,U,TBLD Spellstutter Sprite,Flash Creature - Faerie Wizard ,0,
+1044,4,U,TBLD Sower of Temptation,Creature - Faerie Wizard ,0,1.0
+991,2,W,TBLD Brighteyed Trainer,Creature - Human ,0,
+990,2,W,TBLD Academy Nuisance,Creature - Harpy ,0,0.5
+59,7,B,TBLD Sibsig Muckdraggers,Creature - Zombie ,0,
+988,3,W,TBLD Labast Empire Baron,Creature - Human Noble ,0,1.0
+1046,3,B,TBLD Thieving Sprite,Creature - Faerie Rogue ,0,0.0
+986,1,B,TBLD Gutterbones,Creature - Zombie Warrior ,0,1.0
+44,4,G,TBLD Rushwood Ancient,Creature - Treefolk ,0,
+1025,5,U,TBLD Confirm Suspicions,Flash Sorcery,0,
+985,1,B,TBLD Daggerdrome Imp,Creature - Devil ,0,1.0
+48,2,MBG,TBLD Glowspore Shaman,Creature - Elf Shaman ,0,
+49,4,MBG,TBLD Corpsejack Menace,Creature - Fungus ,0,
+55,2,U,TBLD Brine Kelpie,Creature - Elemental ,0,1.0
+1038,2,U,TBLD Disdainful Stroke,Flash Sorcery,0,1.0
+1076,1,G,TBLD District Explorers,Creature - Cat Scout ,0,1.0
+1023,3,U,TBLD Admirals Order,Flash Sorcery,0,1.0
+1022,3,U,TBLD Exclude,Flash Sorcery,0,1.0
+1021,3,U,TBLD Disconnect,Flash Sorcery,0,
+1020,3,U,TBLD Disallow,Flash Sorcery,0,
+1019,6,MRW,TBLD Annihilator Pulse,Flash Sorcery,0,
+1018,6,MRG,TBLD Crashing Mammoths,Flash Sorcery,0,0.0
+54,2,U,TBLD Arizoa Tender,Creature - Human ,0,
+53,7,U,TBLD Prodigious Hellcrab,Creature - Crab ,0,
+1016,6,MGU,TBLD Cytoplastic Splice,Flash Sorcery,0,
+1015,6,MGW,TBLD Eternal Light,Flash Sorcery,0,
+52,3,HBG,TBLD Slathering Grave-Troll,Creature - Zombie Troll ,0,1.0
+1014,6,MBR,TBLD Fatal Surge,Flash Sorcery,0,
+43,3,G,TBLD Deadwood Stomper,Creature - Zombie Treefolk ,0,1.0
+1030,4,MUR,TBLD Steam Augury,Flash Sorcery,0,
+1011,6,MBG,TBLD Spider Hatching,Flash Sorcery,0,
+1010,6,MWB,TBLD Tyrants Reckoning,Flash Sorcery,0,
+1031,3,MUR,TBLD Ionize,Flash Sorcery,0,1.0
+51,2,MBG,TBLD Woodwraith Strangler,Creature - Plant Zombie ,0,
+1009,6,C,TBLD Doomsday Automaton,Artifact Creature - Construct ,0,
+1008,2,C,TBLD Scrappy Myr,Artifact Creature - Myr ,0,0.875
+1007,1,C,TBLD Myr Sire,Artifact Creature - Phyrexian Myr ,0,
+1006,1,C,TBLD Cogwork Explorer,Artifact Creature - Construct Scout ,0,
+1005,4,C,TBLD Phyrexian Hulk,Artifact Creature - Golem ,0,1.0
+50,4,MBG,TBLD Rot Farm Skeleton,Creature - Plant Zombie ,0,
+1035,2,U,TBLD Quell,Flash Sorcery,0,0.42857142857142855
+1036,3,U,TBLD Thought Collapse,Flash Sorcery,0,
+1037,2,U,TBLD Deprive,Flash Sorcery,0,
+1012,6,MUR,TBLD Negumas Creativity,Flash Sorcery,0,
+42,4,B,TBLD Falkenrath Noble,Flash Creature - Vampire Noble ,0,1.0
+60,3,W,TBLD Azorius Justiciar,Creature - Human Wizard ,0,
+40,1,MGU,TBLD Memorys Journey,Flash Sorcery,0,1.0
+41,2,HWB,TBLD Markov Socialite,Creature - Vampire Noble ,0,
+1063,7,U,TBLD Abyssal Leviathan,Creature - Leviathan ,0,0.0
+970,2,R,TBLD Kwitz the Red Rector,Legendary Creature - Human Cleric ,0,0.0
+1064,2,U,TBLD Battlefield Thaumaturge,Creature - Human Wizard ,0,
+1065,2,U,TBLD Wide-Eyed Drifter,Creature - Homunculus ,0,1.0
+969,4,R,TBLD Chandra Hotshot Pyromancer,Legendary Creature - Human Wizard ,0,
+1066,2,MUR,TBLD Stormchaser Mage,Creature - Human Wizard ,0,1.0
+968,2,R,TBLD Tibalt Sadistic Reprobate,Legendary Creature - Devil Wizard ,0,0.42857142857142855
+967,4,W,TBLD Gideon Defender of Justice,Legendary Creature - Human Soldier ,0,
+1067,3,MUR,TBLD Spellheart Chimera,Creature - Chimera ,0,0.0
+1068,3,W,TBLD Fabled Hero,Creature - Human Soldier ,0,1.0
+1069,2,W,TBLD Vanguard of Brimaz,Creature - Cat Soldier ,0,
+1061,1,R,TBLD Impulsive Action,Flash Sorcery,0,1.0
+1070,3,W,TBLD Tethmos High Priest,Creature - Cat Cleric ,0,
+34,3,B,TBLD Grim Revenant,Creature - Spirit ,0,1.0
+963,3,U,TBLD Trinket Mage,Creature - Human Wizard ,0,1.0
+65,3,W,TBLD Unbreakable Formation,Flash Sorcery,0,
+1072,3,B,TBLD Agent of the Fates,Creature - Human Rogue ,0,
+1073,4,W,TBLD Makindi Chieftain,Creature - Minotaur Warrior ,0,
+961,5,U,TBLD Rashida the Discerning,Legendary Creature - Sphinx ,0,1.0
+960,5,G,TBLD Gobe The Slug Mossbrow,Legendary Creature - Troll ,0,1.0
+1074,4,B,TBLD Caustic Crawler,Creature - Insect ,0,
+1075,1,W,TBLD Dustpaw Trader,Creature - Cat Rogue ,0,1.0
+31,2,B,TBLD Discordant Piper,Creature - Zombie Satyr ,0,1.0
+957,3,W,TBLD Ledev Guardian,Creature - Elf Knight ,0,
+66,1,B,TBLD Shared Nightmare,Sorcery,0,1.0
+965,3,B,TBLD Kirishiki of the Gloom,Legendary Creature - Vampire Ninja ,0,
+1060,2,U,TBLD Flummox,Flash Sorcery,0,1.0
+1062,1,U,TBLD Nix,Flash Sorcery,0,
+1027,1,U,TBLD Spell Blast,Flash Sorcery,0,
+38,2,G,TBLD Sporecrown Thallid,Creature - Fungus ,0,1.0
+1053,1,U,TBLD Disconcert,Flash Sorcery,0,0.0
+62,6,G,TBLD Honored Hydra,Creature - Snake Hydra ,0,1.0
+980,2,MGW,TBLD Emmara Advocate for Peace,Legendary Creature - Elf Cleric ,0,
+971,4,W,TBLD Sifara Sunborn,Legendary Creature - Elf ,0,
+979,4,MGW,TBLD Trostani Voice of Selesnya,Legendary Creature - Nymph ,0,0.0
+37,2,B,TBLD Bloodthrone Vampire,Creature - Vampire Noble ,0,
+978,3,R,TBLD Jannia Irontide,Legendary Creature - Human Warrior ,0,
+63,3,R,TBLD Bloodshot Desperada,Creature - Vampire Rogue ,0,
+976,3,W,TBLD Thalia Selfless Cathar,Legendary Creature - Human Soldier ,0,1.0
+981,4,MBR,TBLD Rakdos Patron of Carnage,Legendary Creature - Demon ,0,
+1051,2,U,TBLD End Dispute,Flash Sorcery,0,
+982,3,MBR,TBLD Exava Witch of the Stage,Legendary Creature - Human Cleric ,0,
+64,1,W,TBLD Unyielding Formation,Sorcery,0,1.0
+975,1,U,TBLD Emry Lady of the Loch,Legendary Creature - Merfolk Wizard ,0,1.0
+61,3,U,TBLD Arcane Artisan,Creature - Human Wizard ,0,
+974,3,G,TBLD Vivien Arkbow Summoner,Legendary Flash Creature - Human Scout ,0,0.5
+984,2,W,TBLD Veteran Armorer,Creature - Human Soldier Artificer ,0,
+1057,2,U,TBLD Frazzle,Flash Sorcery,0,0.5
+1058,2,U,TBLD Essence Scatter,Flash Sorcery,0,0.0
+972,4,R,TBLD Koth Unbroken,Legendary Creature - Human Warrior ,0,0.5
+39,2,MRW,TBLD Martial Glory,Flash Sorcery,0,
+36,2,B,TBLD Eternal Taskmaster,Creature - Zombie ,0,1.0
+1055,1,U,TBLD Mindmelt,Flash Sorcery,0,0.6666666666666666
+2078,7,MBG,TBLD Jarad Undercity Lich,Legendary Creature - Zombie Elf Wizard ,1,0.6666666666666666
+1024,3,U,TBLD Spell Snuff,Flash Sorcery,1,1.0
+180,3,MWB,TBLD Mortify,Flash Sorcery,1,1.0
+959,2,U,TBLD Jace Prodigious Telepath,Legendary Flash Creature - Human Wizard ,1,0.3333333333333333
+267,2,U,TBLD Data Breach,Flash Sorcery,1,0.0
+1346,2,U,TBLD Winter Charm,Flash Sorcery - Charm ,1,1.0
+1013,6,MWU,TBLD Indoctrinate,Flash Sorcery,1,0.0
+1622,7,W,TBLD Grundov Paranoid King,Legendary Creature - Giant Noble ,1,1.0
+2072,4,MUR,TBLD Ral Zarek Explosive Intellect,Legendary Creature - Human Wizard ,1,0.0
+2073,7,MUR,TBLD Niv-Mizzet Izzet Parun,Legendary Creature - Dragon Wizard ,1,0.0
+1325,2,MUG,TBLD Curiosity Charm,Flash Sorcery - Charm ,1,0.16666666666666666
+973,6,G,TBLD Garruk Savage Hunter,Legendary Creature - Human Warrior ,1,0.0
+1189,12,C,TBLD Kozilek Cosmic Distortion,Legendary Flash Creature - Eldrazi ,1,1.0
+1673,5,U,TBLD Shrewd Sphinx,Creature - Sphinx ,1,1.0
+196,5,W,TBLD Planar Outburst,Sorcery,1,1.0
+2278,4,G,TBLD Crumble Away,Flash Sorcery,1,0.0
+29,1,B,TBLD Lilianas Steward,Creature - Zombie Advisor ,1,1.0
+1116,5,MBR,TBLD Hack the Planet,Sorcery,1,0.0
+1878,1,G,TBLD Miracle Growth,Flash Sorcery,1,0.75
+1757,1,C,TBLD Unnatural Predation,Flash Sorcery,1,0.6666666666666666
+1426,1,C,TBLD Sentinel Totem,Artifact,1,0.0
+321,0,MRW,TBLD Bronze Bell Shrine,Land - Mountain Plains ,1,1.0
+1732,5,B,TBLD Power Overwhelming,Sorcery,1,0.5
+837,0,MUR,TBLD Sweltering Spill,Land,1,1.0
+841,0,MUB,TBLD Waterlogged Tomb,Land - Island Swamp ,1,1.0
+1750,2,C,TBLD From the Furnace,Flash Sorcery,1,1.0
+1866,1,R,TBLD Strafe,Flash Sorcery,1,0.0
+2224,2,B,TBLD Ignoble End,Flash Sorcery,1,0.5
+725,0,MUR,TBLD Vivid Ridge,Land - Island Mountain ,1,1.0
+1756,4,R,TBLD Volcanic Discharge,Sorcery,1,0.0
+109,1,B,TBLD Disfigure,Flash Sorcery,1,1.0
+1086,8,B,TBLD Lich Lords Thirst,Enchantment,1,1.0
+1028,4,U,TBLD Summary Dismissal,Flash Sorcery,1,0.0
+1528,2,U,TBLD Leap Through Time,Sorcery,1,1.0
+1117,3,MWU,TBLD Brightening,Sorcery,1,0.5
+2234,4,U,TBLD Lost in Admiration,Sorcery,1,1.0
+1029,2,MUR,TBLD Antimagic Flux,Flash Sorcery,1,0.0
+1048,1,U,TBLD Psychobstruct,Flash Sorcery,1,0.0
+1915,2,G,TBLD Bestial Rancor,Enchantment - Aura ,1,1.0
+1721,1,U,TBLD Stifle,Flash Sorcery,1,0.2857142857142857
+2169,3,B,TBLD Leech Seed,Flash Enchantment - Aura Curse ,1,0.0
+2144,2,W,TBLD The Birth of Meletis,Enchantment - Saga ,2,1.0
+1977,3,B,TBLD Mischief Steward,Creature - Rat Warrior ,2,0.6666666666666666
+340,0,MUB,TBLD Dreamy Fen,Land,2,1.0
+341,0,MRG,TBLD Embernut Orchard,Land - Mountain Forest ,2,1.0
+1725,1,U,TBLD Stubborn Specter,Creature - Spirit ,2,0.6666666666666666
+1672,1,W,TBLD Syndic of Tithes,Creature - Human Cleric ,2,0.0
+1324,3,MUBR,TBLD Conspiracy Charm,Flash Sorcery - Charm ,2,0.4
+433,0,MWU,TBLD Sparkling Bay,Land - Plains Island ,2,1.0
+57,4,MBG,TBLD Sisters of Stone Death,Creature - Gorgon ,2,1.0
+1314,5,MGW,TBLD Timberprong,Enchantment Creature - Elemental ,2,0.6
+1398,4,B,TBLD Moonglove Winnower,Creature - Elf Rogue ,2,1.0
+1755,4,W,TBLD Settle the Wreckage,Flash Sorcery,2,1.0
+135,1,W,TBLD Giant Killer,Creature - Human Peasant // Flash Sorcery - Adventure ,2,1.0
+216,2,W,TBLD Seeker of the Way,Creature - Human Warrior ,2,1.0
+611,0,MBGU,TBLD Opulent Palace,Land,2,1.0
+1405,2,B,TBLD Gruesome Supper,Sorcery,2,0.0
+1859,3,R,TBLD Radioactive Decay,Sorcery,2,0.5
+2017,3,U,TBLD Riddlespeaker,Creature - Sphinx ,2,0.0
+2006,2,G,TBLD Staunch Naturalist,Creature - Bird Bear Warrior ,2,0.32
+1855,1,W,TBLD Forum Moderator,Creature - Human Advisor ,2,0.631578947368421
+1001,4,HWU,TBLD Azors Elocutors,Creature - Human Advisor ,2,1.0
+1056,2,U,TBLD Memory Lapse,Flash Sorcery,2,1.0
+1768,1,G,TBLD Hunger of the Howlpack,Flash Sorcery,2,1.0
+198,7,W,TBLD Cleansing Dawn,Sorcery,2,1.0
+1103,1,U,TBLD Stern Dismissal,Flash Sorcery,2,0.3888888888888889
+1943,3,B,TBLD Darkzone Courier,Creature - Human Scout ,2,1.0
+32,1,B,TBLD Cabal Therapist,Creature - Horror ,2,0.3333333333333333
+1797,4,U,TBLD Beholder of Arcane Lore,Creature - Homunculus ,2,1.0
+1906,1,C,TBLD Goldvein Pick,Artifact - Equipment ,2,1.0
+1246,3,G,TBLD Barkmarrow Ghoul,Creature - Zombie Plant ,2,0.42857142857142855
+1349,2,G,TBLD Spring Charm,Flash Sorcery - Charm ,2,0.5
+958,4,MUB,TBLD Oona Mother of all Fae,Legendary Flash Creature - Faerie Wizard ,2,0.0
+111,3,MUB,TBLD Recoil,Flash Sorcery,2,0.2
+151,6,MWU,TBLD Warrant_Warden,Flash Sorcery // Sorcery,2,1.0
+1914,1,W,TBLD Perish Song,Enchantment,2,0.7
+1367,1,B,TBLD Dead Weight,Enchantment - Aura ,2,1.0
+185,7,B,TBLD Cruel Reality,Enchantment - Aura Curse ,2,0.0
+1361,3,B,TBLD Withering Wail,Sorcery,2,0.3333333333333333
+1534,2,W,TBLD Justicars Sentence,Enchantment,2,0.3333333333333333
+200,0,C,TBLD The Iron Throne,Legendary Land,2,1.0
+964,3,B,TBLD Davriel Cane Diabolist,Legendary Creature - Human Wizard ,2,0.7272727272727273
+1411,3,W,TBLD Last of Us,Sorcery,2,0.3
+148,5,MRG,TBLD Rabblerouse_Rubbleraise,Sorcery // Sorcery,2,0.3333333333333333
+712,0,MRG,TBLD Heartland Thicket,Land - Mountain Forest ,2,1.0
+167,2,G,TBLD Return to Nature,Flash Sorcery,2,0.0
+891,1,B,TBLD Unpiphany,Sorcery,2,0.0
+2257,0,B,TBLD Shallow Graves,Land,2,1.0
+1331,2,MUR,TBLD Ingenuity Charm,Flash Sorcery - Charm ,2,1.0
+1451,3,C,TBLD Pristine Talisman,Artifact,2,1.0
+168,2,G,TBLD Wilt,Flash Sorcery,2,0.5294117647058824
+1684,1,B,TBLD Ereboss Intervention,Flash Sorcery,2,1.0
+322,0,C,TBLD Conductor Array,Land - Station ,2,1.0
+1270,3,U,TBLD Thirst for Knowledge,Flash Sorcery,2,0.0
+1377,1,B,TBLD Flense,Sorcery,2,0.16666666666666666
+1033,3,U,TBLD Bridle the Insolent,Flash Sorcery,2,0.0
+924,3,B,TBLD Vampire Nighthawk,Creature - Vampire Shaman ,3,0.6451612903225806
+1646,1,R,TBLD Nibbling Whelp,Creature - Dinosaur ,3,1.0
+826,0,MUG,TBLD Tropic Channel,Land,3,1.0
+1842,3,MWB,TBLD Unraveling Mummy,Creature - Zombie ,3,0.0
+2155,5,U,TBLD Rooftop Storm,Enchantment,3,1.0
+966,6,B,TBLD Liliana Master of the Veil,Legendary Creature - Human Wizard ,3,0.0
+1457,4,C,TBLD Artisans Fountain,Artifact,3,1.0
+223,5,W,TBLD Sunblade Angel,Flash Creature - Angel ,3,1.0
+721,0,MBG,TBLD Withering Woods,Land,3,1.0
+2168,3,U,TBLD Fresh Water,Enchantment,3,1.0
+2201,2,U,TBLD Deft Disruption,Flash Sorcery,3,1.0
+1919,1,G,TBLD Autumnal Veil,Flash Sorcery,3,0.0
+2008,4,U,TBLD Forgotten Creation,Creature - Zombie Horror ,3,1.0
+1650,1,U,TBLD Claim Jumper,Creature - Human Scout ,3,1.0
+1718,1,G,TBLD Defend the Hearth,Flash Sorcery,3,0.6666666666666666
+173,3,MRG,TBLD Grove Rumbler,Creature - Elemental ,3,1.0
+1381,2,B,TBLD Open Grave,Sorcery,3,1.0
+894,5,MUB,TBLD Inception,Sorcery,3,1.0
+286,7,B,TBLD Prophesied Calamity,Sorcery,3,0.7142857142857143
+892,1,B,TBLD Divest,Sorcery,3,1.0
+1953,2,U,TBLD Drowned Secrets,Enchantment,3,1.0
+85,3,B,TBLD Deep Net,Enchantment,3,0.6666666666666666
+86,4,U,TBLD Waking Nightmares,Enchantment,3,1.0
+161,3,MGU,TBLD Replicate Form,Flash Sorcery,3,0.0
+1942,1,C,TBLD Norns Disdain,Flash Sorcery,3,0.5263157894736842
+1345,2,W,TBLD Solar Charm,Flash Sorcery - Charm ,3,0.9090909090909091
+1347,2,B,TBLD Lunar Charm,Flash Sorcery - Charm ,3,1.0
+297,0,MWG,TBLD Arbor Loft,Land - Forest Plains ,3,1.0
+14,4,MWU,TBLD Elite Guardmage,Creature - Human Wizard ,3,1.0
+1371,2,B,TBLD Sinister Edict,Flash Sorcery,3,0.23076923076923078
+1541,3,MUBR,TBLD Grixis Ascendancy,Enchantment,3,1.0
+1366,1,B,TBLD Blood Pet,Creature - Thrull ,3,1.0
+332,0,MUG,TBLD Dense Aquascape,Land - Forest Island ,3,1.0
+1146,1,U,TBLD Breakthrough,Sorcery,3,1.0
+899,2,MWU,TBLD Diffuse,Flash Sorcery,3,0.8846153846153846
+82,3,B,TBLD Corpsebind,Enchantment,3,1.0
+241,4,G,TBLD Deadbridge Goliath,Creature - Insect ,3,1.0
+244,3,B,TBLD Pesky Cave-Bat,Creature - Bat ,3,0.45
+246,1,HRG,TBLD Burning-Tree Bloodcrow,Creature - Human Shaman ,3,1.0
+1506,1,HRW,TBLD Shattering Blow,Sorcery,3,0.0
+178,2,W,TBLD Kill Shot,Flash Sorcery,3,0.6923076923076923
+1132,2,U,TBLD Astral Eye,Sorcery,3,1.0
+430,0,MBG,TBLD Golgari Rot Farm,Land,3,1.0
+136,7,W,TBLD Moon of the Day,Creature - Spirit Bird // Sorcery - Adventure ,3,0.0
+261,5,U,TBLD Misappropriation,Enchantment - Aura ,3,0.6666666666666666
+258,2,W,TBLD Arrest,Enchantment - Aura ,3,1.0
+1359,1,B,TBLD Shadow Ritual,Sorcery,3,1.0
+1397,4,B,TBLD Masterminds Acquisition,Sorcery,3,1.0
+2193,1,W,TBLD Blade Projection,Enchantment - Aura ,3,1.0
+1511,2,R,TBLD Crush to Bits,Sorcery,3,0.1111111111111111
+1880,2,R,TBLD Searing Blood,Flash Sorcery,3,0.12903225806451613
+23,3,B,TBLD Rank Officer,Creature - Zombie Soldier ,4,1.0
+2080,7,MRG,TBLD Mighty Borborygmos,Legendary Creature - Giant Berserker ,4,0.1
+2217,3,G,TBLD Back to Roots,Sorcery,4,0.625
+2258,0,B,TBLD Creepy Decor,Land,4,1.0
+2112,3,G,TBLD Oran-Rief Ooze,Creature - Ooze ,4,1.0
+26,1,B,TBLD Ice Barren Harvester,Creature - Zombie Wizard ,4,1.0
+2,0,C,TBLD Wizard Spire,Land,4,1.0
+2129,2,R,TBLD Reckless Lancer,Creature - Human Knight ,4,1.0
+162,2,G,TBLD Moments Peace,Flash Sorcery,4,0.5833333333333334
+24,4,B,TBLD Haunted Dead,Creature - Zombie ,4,1.0
+2069,4,G,TBLD Pelios Managorger,Legendary Creature - Hydra ,4,0.8
+2213,4,G,TBLD Terramystica,Sorcery,4,1.0
+182,2,MBG,TBLD Sudden Disintegration,Sorcery,4,1.0
+2180,0,B,TBLD Bleak Hold,Artifact Land,4,1.0
+3,0,U,TBLD Stitchers Laboratory,Land,4,1.0
+0,0,MWUBRG,TBLD Transguild Promenade,Land,4,1.0
+2064,1,W,TBLD Healers Hawk,Creature - Bird ,4,1.0
+1497,6,G,TBLD Ancient Greenwarden,Creature - Elemental ,4,0.2727272727272727
+825,0,MWG,TBLD Treetop Sanctum,Land - Forest Plains ,4,1.0
+817,0,MRG,TBLD Avalanche Belt,Land,4,1.0
+1782,2,R,TBLD Mizzium Mortars,Sorcery,4,0.2
+1784,1,W,TBLD Thistledown Brave,Flash Creature - Kithkin Soldier ,4,1.0
+812,0,MRG,TBLD Tangled Trail,Land,4,1.0
+811,0,MUR,TBLD Dusty Oasis,Land,4,1.0
+1054,2,U,TBLD Mana Leak,Flash Sorcery,4,0.7777777777777778
+1476,1,W,TBLD Divine Aid,Flash Sorcery,4,1.0
+1805,3,R,TBLD Prophetic Flamespeaker,Creature - Human Shaman ,4,1.0
+1807,1,R,TBLD Street Hacker,Creature - Human Rogue ,4,1.0
+1811,3,U,TBLD Show and Tell,Sorcery,4,1.0
+1828,1,R,TBLD Minotaur Younghorn,Creature - Minotaur ,4,1.0
+1831,5,B,TBLD Gray Merchant of Asphodel,Creature - Zombie ,4,1.0
+1071,2,W,TBLD Leonin Relic-Warder,Creature - Cat Cleric ,4,0.0
+1833,1,U,TBLD Seagraf Skaab,Creature - Zombie ,4,1.0
+1589,2,G,TBLD Skittering Infestor,Creature - Eldrazi ,4,1.0
+614,0,MWB,TBLD Salt Mire,Land,4,1.0
+609,0,MURW,TBLD Mystic Monastery,Land,4,1.0
+525,0,MUG,TBLD Moat of Thorns,Land,4,1.0
+523,0,MUR,TBLD Steam-Bathed Spring,Land - Island Mountain ,4,1.0
+1858,2,R,TBLD Kessig Forgemaster,Creature - Human Shaman Werewolf ,4,1.0
+1077,3,U,TBLD As Foretold,Enchantment,4,1.0
+434,0,MWU,TBLD Ice Float,Land - Plains Island ,4,1.0
+1863,1,R,TBLD Firebolt,Sorcery,4,0.5625
+1501,2,U,TBLD Inquisitive Mermaid,Creature - Merfolk Scout ,4,1.0
+1763,2,C,TBLD Death-Hood Cobra,Artifact Creature - Phyrexian Snake ,4,0.8
+836,0,MUG,TBLD Vibrant Seabed,Land,4,1.0
+842,0,MWG,TBLD Wax-Comb Hives,Land,4,1.0
+956,2,W,TBLD Stone Haven Outfitter,Creature - Kor Artificer ,4,1.0
+947,1,B,TBLD Diregraf Wriggler,Creature - Zombie ,4,1.0
+977,4,B,TBLD Sorin Vampire Bloodlord,Legendary Creature - Vampire Noble ,4,1.0
+983,3,HGW,TBLD Resurgent Dryad,Creature - Nymph ,4,0.6153846153846154
+1634,3,U,TBLD Jealous Changeling,Creature - Shapeshifter ,4,1.0
+1640,1,G,TBLD Grumpy Squatters,Creature - Egg ,4,0.9230769230769231
+1642,2,G,TBLD Budding Chick,Flash Creature - Plant Dinosaur ,4,1.0
+1579,1,G,TBLD Blossoming Defense,Flash Sorcery,4,1.0
+987,2,W,TBLD Steelarm Outfitter,Creature - Dwarf Artificer ,4,1.0
+994,2,MGW,TBLD Plucky Weed,Creature - Plant ,4,1.0
+996,8,G,TBLD Quakestep Behemoth,Creature - Rhino ,4,1.0
+908,1,R,TBLD Craters Claws,Sorcery,4,1.0
+1081,2,G,TBLD The Road Ahead,Enchantment,4,0.9047619047619048
+1561,8,C,TBLD Thundering Charge,Sorcery,4,1.0
+901,4,B,TBLD Brainblast,Sorcery,4,0.0
+1527,5,U,TBLD Time Dilation,Sorcery,4,1.0
+885,1,R,TBLD Chain of Lightning,Sorcery,4,0.8823529411764706
+1032,5,U,TBLD Flashfreeze,Flash Sorcery,4,0.0
+1714,1,G,TBLD Jade Bearer,Creature - Merfolk Shaman ,4,1.0
+1039,1,U,TBLD Condescend,Flash Sorcery,4,1.0
+188,2,W,TBLD Arashin Cleric,Creature - Human Cleric ,4,0.0
+1513,3,G,TBLD Terrifying Visage,Sorcery,4,1.0
+854,0,MWU,TBLD Senate Parliament,Land,4,1.0
+1746,2,R,TBLD Emberform Changeling,Creature - Shapeshifter ,4,1.0
+1047,3,U,TBLD Sea-Dasher Octopus,Flash Creature - Octopus ,4,1.0
+845,0,MWU,TBLD Expansive Tundra,Land,4,1.0
+1017,6,MUB,TBLD Usurp,Flash Sorcery,4,0.0
+1872,1,R,TBLD Devils Bargain,Sorcery,4,0.8666666666666667
+1468,0,C,TBLD Mox Crystal,Artifact,4,1.0
+1881,3,U,TBLD Divination,Sorcery,4,1.0
+307,0,MRG,TBLD Briar Scarp,Land,4,1.0
+295,0,MWG,TBLD Rosy Oldwood,Land - Forest Plains ,4,1.0
+293,0,MWU,TBLD Winding Waterway,Land,4,1.0
+1399,2,B,TBLD Sign in Blood,Sorcery,4,0.8333333333333334
+1167,7,C,TBLD Spawn of Emrakul,Creature - Eldrazi ,4,1.0
+289,6,MRW,TBLD Wish Upon a Star,Sorcery,4,1.0
+1188,14,C,TBLD Emrakul Unfathomable Will,Legendary Creature - Eldrazi ,4,0.8571428571428571
+282,1,G,TBLD Natures Spiral,Sorcery,4,0.26666666666666666
+281,1,G,TBLD A Journey Begins,Sorcery,4,1.0
+280,2,W,TBLD Wary Cliffrover,Creature - Kor Scout ,4,1.0
+1963,9,C,TBLD Dross Gorgon,Artifact Creature - Phyrexian Gorgon ,4,1.0
+312,0,MBG,TBLD Carnivorous Coppice,Land,4,1.0
+1315,4,G,TBLD Eureka,Sorcery,4,1.0
+263,4,B,TBLD Bad Moon Rising,Enchantment,4,1.0
+1987,2,G,TBLD Lotus Cobra,Creature - Snake ,4,1.0
+257,5,R,TBLD Pulverizer Exarch,Creature - Phyrexian ,4,1.0
+250,4,MRG,TBLD Leyline Whomper,Creature - Elemental ,4,1.0
+242,2,G,TBLD Stank Weed,Creature - Plant ,4,1.0
+1306,2,MBG,TBLD Putrid Leech,Creature - Zombie Leech ,4,1.0
+230,2,R,TBLD Galloping Blaze,Creature - Elemental Horse ,4,1.0
+224,7,W,TBLD Resolute Archangel,Creature - Angel ,4,0.8
+219,1,U,TBLD Hat Trick,Sorcery,4,1.0
+1273,1,R,TBLD Rummage,Sorcery,4,1.0
+1261,3,G,TBLD Greenweaver Druid,Creature - Elf Shaman ,4,1.0
+274,2,W,TBLD Paragon of Honor,Flash Creature - Human Samurai ,4,0.0
+1918,2,R,TBLD Flame Rift,Sorcery,4,0.8
+1328,2,MWG,TBLD Fellowship Charm,Flash Sorcery - Charm ,4,0.0
+1587,3,R,TBLD Spiral into Madness,Flash Sorcery,4,1.0
+328,0,MUBR,TBLD Crumbling Necropolis,Land,4,1.0
+333,0,MWU,TBLD Muggy Parish,Land,4,1.0
+324,0,MBG,TBLD Corroded Hollow,Land - Swamp Forest ,4,1.0
+1424,1,C,TBLD Massacre Totem,Artifact,4,0.11764705882352941
+1101,2,HUB,TBLD Tumble Down,Flash Sorcery,4,1.0
+1092,1,U,TBLD Soul Dowsing,Flash Sorcery,4,1.0
+1888,1,B,TBLD Zombie Infestation,Enchantment,4,1.0
+1407,1,W,TBLD Sanctums Light,Sorcery,4,0.0
+327,0,MBUR,TBLD Corsairs Cove,Land,4,1.0
+1129,1,U,TBLD Arcane Perception,Sorcery,4,1.0
+339,0,MUB,TBLD Dreadship Reef,Land,4,1.0
+1911,1,C,TBLD Bloodforged Battle-Axe,Artifact - Equipment ,4,0.7741935483870968
+1912,1,C,TBLD Colossus Hammer,Artifact - Equipment ,4,1.0
+181,3,MBG,TBLD Putrefy,Flash Sorcery,5,0.0
+1688,1,B,TBLD Deathblow,Sorcery,5,0.7083333333333334
+1235,2,G,TBLD Meaty Hog,Creature - Boar ,5,0.0
+1425,3,C,TBLD Ancient Seal,Artifact,5,0.26666666666666666
+905,8,C,TBLD Monumental Tragedy,Sorcery,5,0.47368421052631576
+33,2,B,TBLD Dregscape Zombie,Creature - Zombie ,5,1.0
+2077,3,G,TBLD Nissa Revane Animist,Legendary Creature - Elf Shaman ,5,0.8571428571428571
+2251,0,G,TBLD Busy Boughs,Land,5,1.0
+915,4,B,TBLD Deliver Venom,Flash Sorcery,5,0.631578947368421
+2135,4,B,TBLD Grave Scrabbler,Creature - Zombie ,6,1.0
+1204,2,G,TBLD Naga Scalesower,Creature - Snake Shaman ,6,1.0
+1526,8,C,TBLD Chronoboost,Sorcery,6,1.0
+962,2,U,TBLD Victor Obsessive Stitcher,Legendary Creature - Human Wizard ,6,0.6363636363636364
+25,2,B,TBLD Voracious Null,Creature - Zombie ,6,1.0
+114,3,B,TBLD Stitched Thug,Creature - Zombie Rat Warrior ,6,1.0
+1034,2,U,TBLD Refute,Flash Sorcery,6,1.0
+1402,1,B,TBLD Purloin,Sorcery,6,0.42857142857142855
+106,1,W,TBLD Demystify,Flash Sorcery,6,0.0
+1362,4,B,TBLD Shadowbite,Flash Sorcery,6,1.0
+1946,3,U,TBLD Armored Skaab,Creature - Zombie Warrior ,6,1.0
+1743,1,G,TBLD Arbor Elf,Creature - Elf Shaman ,6,1.0
+1823,7,G,TBLD Avenger of Zendikar,Creature - Elemental ,6,0.5789473684210527
+1107,8,G,TBLD Rumblethrag,Enchantment Creature - Elemental ,6,0.25925925925925924
+2181,0,G,TBLD Outpost Treefort,Artifact Land,7,1.0
+1926,1,U,TBLD Force Spike,Flash Sorcery,7,0.9375
+888,2,W,TBLD Path to Redemption,Sorcery,7,0.717391304347826
+1941,2,U,TBLD Rain Dance,Sorcery,7,1.0
+1050,1,U,TBLD Interrupt,Flash Sorcery,7,0.06976744186046512
+613,0,MBG,TBLD Overgrown Crypt,Land - Swamp Forest ,7,1.0
+1026,4,U,TBLD Bar the Way,Flash Sorcery,7,1.0
+1360,2,B,TBLD Lurking Terrors,Sorcery,7,0.6206896551724138
+1648,3,G,TBLD Sleuthing Woodsman,Creature - Human Scout Werewolf ,7,0.5357142857142857
+45,2,G,TBLD Drudge Beetle,Creature - Insect ,7,1.0
+902,1,B,TBLD Maim,Sorcery,7,0.0
+1516,0,C,TBLD Roving Ballista,Artifact Creature - Construct ,8,0.95
+1059,2,U,TBLD Essence Capture,Flash Sorcery,8,0.5142857142857142
+2255,0,U,TBLD Churned Waves,Land,8,1.0
+1127,1,W,TBLD Read the Stars,Sorcery,8,1.0
+1470,1,C,TBLD Capricious Idol,Artifact,8,1.0
+1045,3,U,TBLD Glen Elendra Commando,Flash Creature - Faerie Soldier ,8,1.0
+1237,3,G,TBLD Frontier Rover,Creature - Orc Scout Warrior ,8,1.0
+27,4,B,TBLD Bone Miser,Creature - Zombie Wizard ,8,1.0
+989,1,W,TBLD Midvast Inquisitor,Creature - Human Cleric ,8,0.0
+1515,0,C,TBLD Junk Hunk,Artifact Creature - Construct ,8,1.0
+2176,4,MBR,TBLD Debug_Unplug,Sorcery // Flash Sorcery,8,1.0
+1964,1,U,TBLD Slimebind,Flash Enchantment - Aura ,8,0.0
+1957,1,C,TBLD Cleanse with Fire,Sorcery,8,0.3333333333333333
+1861,1,B,TBLD Lurid Vision,Flash Sorcery,8,0.8695652173913043
+133,2,U,TBLD Hypnotic Sprite,Creature - Faerie // Flash Sorcery - Adventure ,8,1.0
+729,0,MWUBRG,TBLD Strange Utopia,Land,8,1.0
+1871,2,R,TBLD Direct Current,Flash Sorcery,8,0.5
+830,0,MUB,TBLD Twilit Dojo,Land,8,1.0
+831,0,MWUBRG,TBLD Unclaimed Territory,Land,8,1.0
+344,0,MBR,TBLD Foreboding Entrance,Land,8,1.0
+336,0,MBR,TBLD Cemetery Hillock,Land,8,1.0
+2045,0,C,TBLD Ornithopter,Artifact Creature - Thopter ,8,1.0
+334,0,MBR,TBLD Grim Obelisks,Land - Swamp Mountain ,8,1.0
+1734,1,B,TBLD Eye Collector,Creature - Faerie Rogue ,8,1.0
+1733,1,U,TBLD Faerie Miscreant,Creature - Faerie Rogue ,8,1.0
+1727,2,U,TBLD Moonrise Envoy,Creature - Faerie Wizard ,8,1.0
+1726,2,B,TBLD Magus of the Blossom,Creature - Faerie Wizard ,8,1.0
+2178,0,W,TBLD Sovereign Estate,Artifact Land,8,1.0
+325,0,MBG,TBLD Fungus Gorge,Land,8,1.0
+1645,2,U,TBLD Happy Paddler,Creature - Lizard ,8,1.0
+292,0,MWUBRG,TBLD Mindscape Panorama,Land,8,1.0
+1656,1,G,TBLD Greenweald Advocate,Creature - Nymph ,8,1.0
+165,1,W,TBLD Glimpse of Glory,Sorcery,8,1.0
+202,1,W,TBLD Bribe,Flash Sorcery,8,0.4
+2145,4,MUB,TBLD The Trickster-Gods Heist,Enchantment - Saga ,8,0.0
+2048,1,C,TBLD Praetors Crony,Flash Artifact Creature - Phyrexian Myr ,8,1.0
+2111,1,G,TBLD Sakura-Tribe Scout,Creature - Snake Shaman Scout ,8,1.0
+2007,3,U,TBLD Skaab Ruinator,Creature - Zombie Horror ,8,0.8666666666666667
+232,1,U,TBLD Tidepool Scavenger,Creature - Crab ,8,1.0
+1693,3,U,TBLD Pestermite,Flash Creature - Faerie Rogue ,8,1.0
+1697,2,B,TBLD Caller of Forgotten Faces,Flash Creature - Shapeshifter ,8,1.0
+881,2,C,TBLD Mechashredder,Artifact Creature - Dinosaur Construct ,8,1.0
+1947,0,C,TBLD Memnite,Artifact Creature - Construct ,8,1.0
+942,1,B,TBLD Arrogant Slayer,Creature - Human Rogue ,8,1.0
+1177,3,B,TBLD Stitch Cadaver,Flash Sorcery,9,0.7
+1836,1,W,TBLD Disposal Mummy,Creature - Zombie Dog ,9,1.0
+1576,1,C,TBLD Surgical Expulsion,Sorcery,9,0.42857142857142855
+75,1,B,TBLD Extirpate,Flash Sorcery,9,0.3870967741935484
+1499,2,U,TBLD Merfolk Trickster,Flash Creature - Merfolk Wizard ,9,0.9428571428571428
+1690,1,R,TBLD Flame Slash,Sorcery,9,0.1935483870967742
+1004,2,C,TBLD Grinning Wastrel,Flash Artifact Creature - Scarecrow ,10,0.7916666666666666
+1945,2,B,TBLD Ghoulraiser,Creature - Zombie ,10,1.0
+1675,2,G,TBLD Mage-Eater Spider,Creature - Spider ,10,0.0
+319,0,MWU,TBLD Spooky Villa,Land,11,1.0
+1394,2,B,TBLD Easy Prey,Flash Sorcery,11,0.9285714285714286
+2110,2,B,TBLD Mire Triton,Creature - Zombie Merfolk ,11,0.7714285714285715
+724,0,MWB,TBLD Spanning Swale,Land,11,1.0
+429,0,MWB,TBLD Godless Altar,Land - Plains Swamp ,11,1.0
+1220,3,B,TBLD Poison the Cup,Flash Sorcery,11,0.8181818181818182
+1832,1,B,TBLD Shambling Corpse,Creature - Zombie ,12,1.0
+846,0,HWUBRG,TBLD Summoned Stairway,Land,12,1.0
+1835,2,MWB,TBLD Mummy Paramount,Creature - Zombie Noble ,12,1.0
+1889,2,B,TBLD Endless Ranks of the Dead,Enchantment,12,1.0
+314,0,MUB,TBLD Ceremonial Boneyard,Land,12,1.0
+156,6,B,TBLD Never_Return,Sorcery // Sorcery,12,0.9259259259259259
+1944,3,B,TBLD Lord of the Accursed,Creature - Zombie ,12,1.0
+862,0,C,TBLD Bazaar of Urshad,Land,12,1.0
+1373,3,B,TBLD Execute,Flash Sorcery,12,0.0
+77,1,B,TBLD Cling to Dust,Flash Sorcery,12,0.5263157894736842
+113,2,MWB,TBLD Hollowed Confessor,Creature - Zombie Cleric ,12,1.0
+35,2,W,TBLD Binding Mummy,Creature - Zombie ,12,1.0
+1049,1,U,TBLD Spell Pierce,Flash Sorcery,13,0.16
+889,1,U,TBLD Brainstorm,Flash Sorcery,14,0.9487179487179487
+1052,2,U,TBLD Invalidate,Flash Sorcery,14,0.3625
+939,1,B,TBLD Prolific Necromancer,Creature - Human Wizard ,16,0.8148148148148148
+1433,2,W,TBLD Flurry of Fists,Sorcery,16,1.0
+1466,0,C,TBLD Mox Bismuth,Artifact,16,1.0
+833,0,MUB,TBLD Chamber of Secrets,Land - Island Swamp ,16,1.0
+320,0,MWB,TBLD Regents Court,Land,16,1.0
+829,0,MUB,TBLD Stagnant Pools,Land - Island Swamp ,16,1.0
+207,2,W,TBLD Mysterious Disappearance,Sorcery,17,0.4166666666666667
+903,2,B,TBLD Backstab,Sorcery,22,0.0
+912,2,B,TBLD Interrogate,Sorcery,27,0.23529411764705882
