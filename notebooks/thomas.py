@@ -59,6 +59,8 @@ def get_color(x, num):
     return pd.Series(colors)
 
 
+
+
 def clean_decklists():
     return (
         pd.read_json("https://us-central1-tumbledmtg-website.cloudfunctions.net/api/decklists")
@@ -74,7 +76,11 @@ def clean_decklists():
             .assign(red=lambda x: get_color(x,3))
             .assign(green=lambda x: get_color(x,4))
             .loc[lambda x: x['duplex'] != True]
-            .drop(columns=['duplex','decklistId','author','uploadId','title','createdAt','description','body','colors'], axis=1)
+            .drop(columns=['duplex','decklistId','author','uploadId','title','createdAt','description','body','colors', 'cards'], axis=1)
             .sort_values('stars', ascending=False)
         )
 
+
+def write_processed():
+    clean_decklists().loc[lambda x: x['stars'] > 0].to_csv("../data/processed/decklists win.csv")
+    clean_decklists().loc[lambda x: x['stars'] == 0].to_csv("../data/processed/decklists other.csv")

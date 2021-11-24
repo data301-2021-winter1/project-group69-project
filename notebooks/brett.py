@@ -53,3 +53,7 @@ def clean_cards():
             .drop(columns=['pt', 'set', 'tablerow', 'text', 'tags', 'related', 'layout', 'side', 'manacost'], axis=1)
             .sort_values("star_score", ascending=True)
             )
+
+
+def write_processed():
+    clean_cards().to_csv("../data/processed/cards.csv")
